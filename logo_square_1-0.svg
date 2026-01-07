@@ -1,0 +1,22 @@
+<svg
+  width="467.4"
+  height="468"
+  viewBox="0 0 779 780"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xml:space="preserve"
+  overflow="hidden">
+
+  <defs>
+    <clipPath id="clip0">
+      <rect x="835" y="651" width="779" height="780"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip0)" transform="translate(-835 -651)">
+    <rect x="835" y="651" width="779" height="130"/>
+    <rect x="835" y="1301" width="779" height="130"/>
+    <rect x="835" y="651" width="130" height="780"/>
+    <rect x="1484" y="651" width="130" height="780"/>
+  </g>
+</svg>

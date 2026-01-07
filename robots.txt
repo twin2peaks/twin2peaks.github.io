@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /impressum/
+
+# Link to your sitemap
+Sitemap: https://www.statiqs.eu/sitemap.xml

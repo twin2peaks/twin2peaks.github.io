@@ -1,0 +1,464 @@
+[
+  {
+    "test_id": 1,
+    "test_name": "Original_Example",
+    "input_parameters": {
+      "a": 350,
+      "b": 450,
+      "t_1": 12,
+      "n": 7,
+      "t_2": 2.5,
+      "is_ztving": 1,
+      "is_typb": 1,
+      "is_typc": 1,
+      "gg": 0.9,
+      "ee_b": 2000,
+      "lastfaelle": [
+        {
+          "ff_zd": 2000,
+          "v_x": 5,
+          "v_y": 10,
+          "alpha_yd": 1,
+          "alpha_xd": 2
+        },
+        {
+          "ff_zd": 500,
+          "v_x": 2,
+          "v_y": 2,
+          "alpha_yd": 2,
+          "alpha_xd": 2
+        },
+        {
+          "ff_zd": 1500,
+          "v_x": 1,
+          "v_y": 0,
+          "alpha_yd": 2,
+          "alpha_xd": 1
+        }
+      ]
+    },
+    "results": [
+      {
+        "Lastfall": 1,
+        "epsi_cd": 2.852,
+        "epsi_qd": 0.129,
+        "epsi_ad": 0.252,
+        "epsi_td": 3.2329999999999997,
+        "v_zt1": 0.6265501803487379,
+        "v_zt2": 0.021481835221495514,
+        "v_zt13": 0.14206774719335494,
+        "v_zt23": 0.023380417003839467,
+        "v_zd": 4.407,
+        "v_zd3": 1.018,
+        "sigma_cdmin": 13.742493163109652,
+        "sigma_grenz": 19.049,
+        "stab": 5.306999999999999,
+        "rück_fx": 8.19,
+        "rück_fy": 16.39,
+        "rück_fxy": 18.32,
+        "rück_m": 4.37,
+        "t_smin": 1.8
+      },
+      {
+        "Lastfall": 2,
+        "epsi_cd": 0.694,
+        "epsi_qd": 0.033,
+        "epsi_ad": 0.309,
+        "epsi_td": 1.036,
+        "v_zt1": 0.15663754508718447,
+        "v_zt2": 0.0053704588053738785,
+        "v_zt13": 0.14206774719335494,
+        "v_zt23": 0.023380417003839467,
+        "v_zd": 1.102,
+        "v_zd3": 1.018,
+        "sigma_cdmin": 3.3423353565603358,
+        "sigma_grenz": 19.049,
+        "stab": 15.706999999999999,
+        "rück_fx": 3.28,
+        "rück_fy": 3.28,
+        "rück_fxy": 4.64,
+        "rück_m": 5.53,
+        "t_smin": 0.4
+      },
+      {
+        "Lastfall": 3,
+        "epsi_cd": 2.066,
+        "epsi_qd": 0.012,
+        "epsi_ad": 0.213,
+        "epsi_td": 2.291,
+        "v_zt1": 0.46991263526155347,
+        "v_zt2": 0.016111376416121637,
+        "v_zt13": 0.14206774719335494,
+        "v_zt23": 0.023380417003839467,
+        "v_zd": 3.305,
+        "v_zd3": 1.018,
+        "sigma_cdmin": 9.952097238624752,
+        "sigma_grenz": 19.049,
+        "stab": 9.097,
+        "rück_fx": 1.64,
+        "rück_fy": 0.0,
+        "rück_fxy": 1.64,
+        "rück_m": 4.37,
+        "t_smin": 1.3
+      }
+    ],
+    "status": "success"
+  },
+  {
+    "test_id": 2,
+    "test_name": "Small_Dimensions",
+    "input_parameters": {
+      "a": 200,
+      "b": 250,
+      "t_1": 8,
+      "n": 5,
+      "t_2": 2.0,
+      "is_ztving": 0,
+      "is_typb": 0,
+      "is_typc": 1,
+      "gg": 1.2,
+      "ee_b": 1800,
+      "lastfaelle": [
+        {
+          "ff_zd": 1000,
+          "v_x": 3,
+          "v_y": 4,
+          "alpha_yd": 0.5,
+          "alpha_xd": 1.0
+        },
+        {
+          "ff_zd": 800,
+          "v_x": 1,
+          "v_y": 1,
+          "alpha_yd": 1.5,
+          "alpha_xd": 0.5
+        }
+      ]
+    },
+    "results": [
+      {
+        "Lastfall": 1,
+        "epsi_cd": 4.155,
+        "epsi_qd": 0.119,
+        "epsi_ad": 0.12,
+        "epsi_td": 4.394,
+        "v_zt1": 0.736818651469087,
+        "v_zt2": 0.03393158160367647,
+        "v_zt13": null,
+        "v_zt23": null,
+        "v_zd": 3.718,
+        "v_zd3": null,
+        "sigma_cdmin": null,
+        "sigma_grenz": 24.466,
+        "stab": 2.2290000000000028,
+        "rück_fx": 4.29,
+        "rück_fy": 5.71,
+        "rück_fxy": 7.14,
+        "rück_m": 0.42,
+        "t_smin": 2.0
+      },
+      {
+        "Lastfall": 2,
+        "epsi_cd": 3.247,
+        "epsi_qd": 0.034,
+        "epsi_ad": 0.132,
+        "epsi_td": 3.413,
+        "v_zt1": 0.5894549211752695,
+        "v_zt2": 0.02714526528294118,
+        "v_zt13": null,
+        "v_zt23": null,
+        "v_zd": 2.974,
+        "v_zd3": null,
+        "sigma_cdmin": null,
+        "sigma_grenz": 24.466,
+        "stab": 7.086000000000002,
+        "rück_fx": 1.43,
+        "rück_fy": 1.43,
+        "rück_fxy": 2.02,
+        "rück_m": 0.59,
+        "t_smin": 1.5
+      }
+    ],
+    "status": "success"
+  },
+  {
+    "test_id": 3,
+    "test_name": "Large_Dimensions",
+    "input_parameters": {
+      "a": 500,
+      "b": 600,
+      "t_1": 15,
+      "n": 10,
+      "t_2": 3.0,
+      "is_ztving": 1,
+      "is_typb": 1,
+      "is_typc": 0,
+      "gg": 0.7,
+      "ee_b": 2200,
+      "lastfaelle": [
+        {
+          "ff_zd": 3000,
+          "v_x": 8,
+          "v_y": 12,
+          "alpha_yd": 2.5,
+          "alpha_xd": 3.0
+        },
+        {
+          "ff_zd": 2500,
+          "v_x": 6,
+          "v_y": 8,
+          "alpha_yd": 1.8,
+          "alpha_xd": 2.2
+        },
+        {
+          "ff_zd": 4000,
+          "v_x": 10,
+          "v_y": 15,
+          "alpha_yd": 3.0,
+          "alpha_xd": 2.5
+        }
+      ]
+    },
+    "results": [
+      {
+        "Lastfall": 1,
+        "epsi_cd": 2.557,
+        "epsi_qd": 0.094,
+        "epsi_ad": 0.368,
+        "epsi_td": 3.0189999999999997,
+        "v_zt1": 0.6200735456924403,
+        "v_zt2": 0.018448068542617137,
+        "v_zt13": null,
+        "v_zt23": null,
+        "v_zd": 6.219,
+        "v_zd3": null,
+        "sigma_cdmin": 10.690461257768401,
+        "sigma_grenz": 13.446,
+        "stab": 2.7560000000000002,
+        "rück_fx": 10.98,
+        "rück_fy": 16.47,
+        "rück_fxy": 19.79,
+        "rück_m": 17.19,
+        "t_smin": 1.8
+      },
+      {
+        "Lastfall": 2,
+        "epsi_cd": 2.107,
+        "epsi_qd": 0.065,
+        "epsi_ad": 0.268,
+        "epsi_td": 2.4400000000000004,
+        "v_zt1": 0.5167279547437003,
+        "v_zt2": 0.015373390452180944,
+        "v_zt13": null,
+        "v_zt23": null,
+        "v_zd": 5.183,
+        "v_zd3": null,
+        "sigma_cdmin": 8.809765448804692,
+        "sigma_grenz": 13.446,
+        "stab": 4.635999999999999,
+        "rück_fx": 8.24,
+        "rück_fy": 10.98,
+        "rück_fxy": 13.73,
+        "rück_m": 12.51,
+        "t_smin": 1.5
+      },
+      {
+        "Lastfall": 3,
+        "epsi_cd": 3.442,
+        "epsi_qd": 0.118,
+        "epsi_ad": 0.356,
+        "epsi_td": 3.916,
+        "v_zt1": 0.8267647275899204,
+        "v_zt2": 0.02459742472348951,
+        "v_zt13": null,
+        "v_zt23": null,
+        "v_zd": 8.292,
+        "v_zd3": null,
+        "sigma_cdmin": 14.390352707544862,
+        "sigma_grenz": 13.446,
+        "stab": -0.9440000000000008,
+        "rück_fx": 13.73,
+        "rück_fy": 20.59,
+        "rück_fxy": 24.75,
+        "rück_m": 17.19,
+        "t_smin": 2.4
+      }
+    ],
+    "status": "success"
+  },
+  {
+    "test_id": 4,
+    "test_name": "Minimum_Dimensions",
+    "input_parameters": {
+      "a": 150,
+      "b": 180,
+      "t_1": 6,
+      "n": 3,
+      "t_2": 1.5,
+      "is_ztving": 0,
+      "is_typb": 0,
+      "is_typc": 0,
+      "gg": 1.0,
+      "ee_b": 1500,
+      "lastfaelle": [
+        {
+          "ff_zd": 300,
+          "v_x": 1,
+          "v_y": 2,
+          "alpha_yd": 0.2,
+          "alpha_xd": 0.3
+        }
+      ]
+    },
+    "results": [
+      {
+        "Lastfall": 1,
+        "epsi_cd": 2.897,
+        "epsi_qd": 0.115,
+        "epsi_ad": 0.059,
+        "epsi_td": 3.071,
+        "v_zt1": 0.4001551016630295,
+        "v_zt2": 0.017763506669064507,
+        "v_zt13": null,
+        "v_zt23": null,
+        "v_zd": 1.218,
+        "v_zd3": null,
+        "sigma_cdmin": null,
+        "sigma_grenz": 31.458,
+        "stab": 18.941,
+        "rück_fx": 1.38,
+        "rück_fy": 2.77,
+        "rück_fxy": 3.09,
+        "rück_m": 0.07,
+        "t_smin": 0.8
+      }
+    ],
+    "status": "success"
+  },
+  {
+    "test_id": 5,
+    "test_name": "High_Load",
+    "input_parameters": {
+      "a": 400,
+      "b": 500,
+      "t_1": 20,
+      "n": 8,
+      "t_2": 4.0,
+      "is_ztving": 1,
+      "is_typb": 1,
+      "is_typc": 1,
+      "gg": 0.8,
+      "ee_b": 2500,
+      "lastfaelle": [
+        {
+          "ff_zd": 5000,
+          "v_x": 15,
+          "v_y": 20,
+          "alpha_yd": 4.0,
+          "alpha_xd": 5.0
+        },
+        {
+          "ff_zd": 6000,
+          "v_x": 12,
+          "v_y": 18,
+          "alpha_yd": 3.5,
+          "alpha_xd": 4.2
+        }
+      ]
+    },
+    "results": [
+      {
+        "Lastfall": 1,
+        "epsi_cd": 9.683,
+        "epsi_qd": 0.152,
+        "epsi_ad": 0.285,
+        "epsi_td": 10.12,
+        "v_zt1": 4.571511496528953,
+        "v_zt2": 0.0763417064271208,
+        "v_zt13": 0.529007995959936,
+        "v_zt23": 0.04417070060508068,
+        "v_zd": 36.648,
+        "v_zd3": 4.276,
+        "sigma_cdmin": 28.14618000045034,
+        "sigma_grenz": 6.948,
+        "stab": -21.198,
+        "rück_fx": 14.63,
+        "rück_fy": 19.51,
+        "rück_fxy": 24.39,
+        "rück_m": 4.6,
+        "t_smin": 6.2
+      },
+      {
+        "Lastfall": 2,
+        "epsi_cd": 11.474,
+        "epsi_qd": 0.132,
+        "epsi_ad": 0.243,
+        "epsi_td": 11.849,
+        "v_zt1": 5.485813795834743,
+        "v_zt2": 0.09161004771254497,
+        "v_zt13": 0.529007995959936,
+        "v_zt23": 0.04417070060508068,
+        "v_zd": 43.978,
+        "v_zd3": 4.276,
+        "sigma_cdmin": 33.351120597652084,
+        "sigma_grenz": 6.948,
+        "stab": -26.403,
+        "rück_fx": 11.71,
+        "rück_fy": 17.56,
+        "rück_fxy": 21.11,
+        "rück_m": 3.92,
+        "t_smin": 7.4
+      }
+    ],
+    "status": "success"
+  },
+  {
+    "test_id": 6,
+    "test_name": "Zero_Displacements",
+    "input_parameters": {
+      "a": 300,
+      "b": 400,
+      "t_1": 10,
+      "n": 6,
+      "t_2": 2.0,
+      "is_ztving": 1,
+      "is_typb": 0,
+      "is_typc": 1,
+      "gg": 1.1,
+      "ee_b": 1900,
+      "lastfaelle": [
+        {
+          "ff_zd": 1200,
+          "v_x": 0,
+          "v_y": 0,
+          "alpha_yd": 0,
+          "alpha_xd": 0
+        }
+      ]
+    },
+    "results": [
+      {
+        "Lastfall": 1,
+        "epsi_cd": 1.708,
+        "epsi_qd": 0.0,
+        "epsi_ad": 0.0,
+        "epsi_td": 1.708,
+        "v_zt1": 0.32725839926204153,
+        "v_zt2": 0.013213107458658903,
+        "v_zt13": 0.0936482635328258,
+        "v_zt23": 0.018905314151849158,
+        "v_zd": 1.977,
+        "v_zd3": 0.581,
+        "sigma_cdmin": null,
+        "sigma_grenz": 28.908,
+        "stab": 18.424,
+        "rück_fx": 0.0,
+        "rück_fy": 0.0,
+        "rück_fxy": 0.0,
+        "rück_m": 0.0,
+        "t_smin": 1.2
+      }
+    ],
+    "status": "success"
+  }
+]

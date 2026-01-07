@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- German (de) -->
+  <url>
+    <loc>https://www.statiqs.eu/de</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/de/bridge-bearing</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/bridge-bearing" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/de/shear-deformation</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/shear-deformation" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/de/mass-spring</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/mass-spring" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/de/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/privacy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- English (en) -->
+  <url>
+    <loc>https://www.statiqs.eu/en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/en/bridge-bearing</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/bridge-bearing" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/en/shear-deformation</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/shear-deformation" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/en/mass-spring</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/mass-spring" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/en/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/privacy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Spanish (es) -->
+  <url>
+    <loc>https://www.statiqs.eu/es</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/es/bridge-bearing</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/bridge-bearing" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/es/shear-deformation</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/shear-deformation" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/es/mass-spring</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/mass-spring" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/es/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/privacy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- French (fr) -->
+  <url>
+    <loc>https://www.statiqs.eu/fr</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/fr/bridge-bearing</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/bridge-bearing" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/fr/shear-deformation</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/shear-deformation" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/fr/mass-spring</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/mass-spring" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/fr/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/privacy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Italian (it) -->
+  <url>
+    <loc>https://www.statiqs.eu/it</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/it/bridge-bearing</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/bridge-bearing" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/bridge-bearing" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/it/shear-deformation</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/shear-deformation" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/shear-deformation" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/it/mass-spring</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/mass-spring" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/mass-spring" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.statiqs.eu/it/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.statiqs.eu/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.statiqs.eu/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.statiqs.eu/es/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.statiqs.eu/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.statiqs.eu/it/privacy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
