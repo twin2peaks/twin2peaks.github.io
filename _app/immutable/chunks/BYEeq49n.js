@@ -1,1 +1,0 @@
-import{w as o}from"./DjOT-GKG.js";function r(){const l={calculationResult:null},{subscribe:a,set:s,update:u}=o(l),e={subscribe:a,set:t=>{s(t)},update:t=>{u(t)},reset:()=>{s(l)},setCalculationResult:t=>{e.update(n=>({...n,calculationResult:t}))},clearCalculationResult:()=>{e.update(t=>({...t,calculationResult:null}))}};return e}const i=r();export{i as m};
