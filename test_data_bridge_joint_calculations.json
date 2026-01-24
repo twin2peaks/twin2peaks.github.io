@@ -1,0 +1,5429 @@
+{
+  "metadata": {
+    "description": "Test data for bridge joint calculations",
+    "generator": "generate_test_data.py",
+    "source": "v04.py",
+    "version": "4.0",
+    "total_test_cases": 54
+  },
+  "test_cases": [
+    {
+      "test_id": 1,
+      "description": "Straße",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Gumba",
+            "Typ": "BJ 50",
+            "dx": 50,
+            "dy": 40,
+            "h": 60,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "80-1",
+            "dx": 80,
+            "dy": 35,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "Typ 80-1 HP/E",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "K30",
+            "dx": 40,
+            "dy": 15,
+            "h": 100,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "D1",
+            "dx": 70,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XL1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "D2 / XD2",
+            "dx": 160,
+            "dy": 25,
+            "h": 350,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "DT2 / XT2",
+            "dx": 200,
+            "dy": 25,
+            "h": 350,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "DS16",
+            "dx": 1280,
+            "dy": 300,
+            "h": 460,
+            "noise": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XS16",
+            "dx": 1600,
+            "dy": 300,
+            "h": 470,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "30 ST",
+            "dx": 60,
+            "dy": 40,
+            "h": 250,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-Flex 50",
+            "dx": 50,
+            "dy": 50,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FLEX",
+            "dx": 80,
+            "dy": 40,
+            "h": 150,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "Typ T 40 Straße",
+            "dx": 60,
+            "dy": 40,
+            "h": 250,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-Finger RSFD 60",
+            "dx": 60,
+            "dy": 100,
+            "h": 295,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE",
+            "dx": 80,
+            "dy": 30,
+            "h": 180,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR2",
+            "dx": 160,
+            "dy": 24,
+            "h": 400,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS2",
+            "dx": 200,
+            "dy": 24,
+            "h": 425,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS18",
+            "dx": 1800,
+            "dy": 107,
+            "h": 590,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 27,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": true,
+          "Fingerfuge": true,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 2,
+      "description": "Straße, dx>=80",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Gumba",
+            "Typ": "BJ 100",
+            "dx": 100,
+            "dy": 60,
+            "h": 80,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "80-1",
+            "dx": 80,
+            "dy": 35,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "Typ 80-1 HP/E",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "E1-80",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XL1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "D2 / XD2",
+            "dx": 160,
+            "dy": 25,
+            "h": 350,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "DT2 / XT2",
+            "dx": 200,
+            "dy": 25,
+            "h": 350,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "DS16",
+            "dx": 1280,
+            "dy": 300,
+            "h": 460,
+            "noise": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XS16",
+            "dx": 1600,
+            "dy": 300,
+            "h": 470,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "80 ST",
+            "dx": 80,
+            "dy": 60,
+            "h": 250,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FLEX",
+            "dx": 80,
+            "dy": 40,
+            "h": 150,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-Flex 80",
+            "dx": 80,
+            "dy": 80,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE",
+            "dx": 80,
+            "dy": 30,
+            "h": 180,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "Typ T 80 Straße",
+            "dx": 80,
+            "dy": 60,
+            "h": 250,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-Finger RSFD 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 295,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR2",
+            "dx": 160,
+            "dy": 24,
+            "h": 400,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS2",
+            "dx": 200,
+            "dy": 24,
+            "h": 425,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS18",
+            "dx": 1800,
+            "dy": 107,
+            "h": 590,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 26,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": true,
+          "Fingerfuge": true,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 3,
+      "description": "Straße, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Gumba",
+            "Typ": "BJ 165",
+            "dx": 165,
+            "dy": 60,
+            "h": 100,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "E2-160",
+            "dx": 160,
+            "dy": 60,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "DS2",
+            "dx": 160,
+            "dy": 100,
+            "h": 340,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 200",
+            "dx": 200,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XS2",
+            "dx": 200,
+            "dy": 100,
+            "h": 340,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "DS16",
+            "dx": 1280,
+            "dy": 300,
+            "h": 460,
+            "noise": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XS16",
+            "dx": 1600,
+            "dy": 300,
+            "h": 470,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-Flex 200",
+            "dx": 200,
+            "dy": 200,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 225",
+            "dx": 225,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-Finger RSFD 200",
+            "dx": 200,
+            "dy": 100,
+            "h": 325,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR4",
+            "dx": 320,
+            "dy": 35,
+            "h": 420,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS4",
+            "dx": 400,
+            "dy": 35,
+            "h": 445,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS18",
+            "dx": 1800,
+            "dy": 107,
+            "h": 590,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 14,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": true,
+          "Fingerfuge": true,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 4,
+      "description": "Straße, h<250",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 1,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Gumba",
+            "Typ": "BJ 50",
+            "dx": 50,
+            "dy": 40,
+            "h": 60,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "80-1",
+            "dx": 80,
+            "dy": 35,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "Typ 80-1 HP/E",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "K30",
+            "dx": 40,
+            "dy": 15,
+            "h": 100,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "D1",
+            "dx": 70,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "30 F",
+            "dx": 60,
+            "dy": 40,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-Flex 50",
+            "dx": 50,
+            "dy": 50,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FLEX",
+            "dx": 80,
+            "dy": 40,
+            "h": 150,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE",
+            "dx": 80,
+            "dy": 30,
+            "h": 180,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE-LS",
+            "dx": 100,
+            "dy": 30,
+            "h": 180,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          }
+        ],
+        "total_count": 14,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": true,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 5,
+      "description": "Straße, h<250, dx>=80",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 1,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Gumba",
+            "Typ": "BJ 100",
+            "dx": 100,
+            "dy": 60,
+            "h": 80,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "80-1",
+            "dx": 80,
+            "dy": 35,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "Typ 80-1 HP/E",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "E1-80",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "80 F",
+            "dx": 80,
+            "dy": 60,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FLEX",
+            "dx": 80,
+            "dy": 40,
+            "h": 150,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-Flex 80",
+            "dx": 80,
+            "dy": 80,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE",
+            "dx": 80,
+            "dy": 30,
+            "h": 180,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE-LS",
+            "dx": 100,
+            "dy": 30,
+            "h": 180,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          }
+        ],
+        "total_count": 13,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": true,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 6,
+      "description": "Straße, h<250, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 1,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Gumba",
+            "Typ": "BJ 165",
+            "dx": 165,
+            "dy": 60,
+            "h": 100,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "E2-160",
+            "dx": 160,
+            "dy": 60,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 200",
+            "dx": 200,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-Flex 200",
+            "dx": 200,
+            "dy": 200,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          }
+        ],
+        "total_count": 4,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": true,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 7,
+      "description": "Straße, TLTP",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "D1",
+            "dx": 70,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XL1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "D2 / XD2",
+            "dx": 160,
+            "dy": 25,
+            "h": 350,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "DT2 / XT2",
+            "dx": 200,
+            "dy": 25,
+            "h": 350,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE",
+            "dx": 80,
+            "dy": 30,
+            "h": 180,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR2",
+            "dx": 160,
+            "dy": 24,
+            "h": 400,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS2",
+            "dx": 200,
+            "dy": 24,
+            "h": 425,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 12,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 8,
+      "description": "Straße, TLTP, dx>=80",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XL1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "D2 / XD2",
+            "dx": 160,
+            "dy": 25,
+            "h": 350,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "DT2 / XT2",
+            "dx": 200,
+            "dy": 25,
+            "h": 350,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE",
+            "dx": 80,
+            "dy": 30,
+            "h": 180,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR2",
+            "dx": 160,
+            "dy": 24,
+            "h": 400,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS2",
+            "dx": 200,
+            "dy": 24,
+            "h": 425,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 11,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 9,
+      "description": "Straße, TLTP, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "DS2",
+            "dx": 160,
+            "dy": 100,
+            "h": 340,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XS2",
+            "dx": 200,
+            "dy": 100,
+            "h": 340,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR4",
+            "dx": 320,
+            "dy": 35,
+            "h": 420,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS4",
+            "dx": 400,
+            "dy": 35,
+            "h": 445,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 5,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 10,
+      "description": "Straße, ETA",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR2",
+            "dx": 160,
+            "dy": 24,
+            "h": 400,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS2",
+            "dx": 200,
+            "dy": 24,
+            "h": 425,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS18",
+            "dx": 1800,
+            "dy": 107,
+            "h": 590,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 9,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 11,
+      "description": "Straße, ETA, dx>=80",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR2",
+            "dx": 160,
+            "dy": 24,
+            "h": 400,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS2",
+            "dx": 200,
+            "dy": 24,
+            "h": 425,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS18",
+            "dx": 1800,
+            "dy": 107,
+            "h": 590,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 9,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 12,
+      "description": "Straße, ETA, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 225",
+            "dx": 225,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR4",
+            "dx": 320,
+            "dy": 35,
+            "h": 420,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS4",
+            "dx": 400,
+            "dy": 35,
+            "h": 445,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS18",
+            "dx": 1800,
+            "dy": 107,
+            "h": 590,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 4,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 13,
+      "description": "Straße, noise",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 1,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XL1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "DT2 / XT2",
+            "dx": 200,
+            "dy": 25,
+            "h": 350,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XS16",
+            "dx": 1600,
+            "dy": 300,
+            "h": 470,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-Finger RSFD 60",
+            "dx": 60,
+            "dy": 100,
+            "h": 295,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS2",
+            "dx": 200,
+            "dy": 24,
+            "h": 425,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS18",
+            "dx": 1800,
+            "dy": 107,
+            "h": 590,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 12,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 14,
+      "description": "Straße, noise, dx>=80",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 1,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XL1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "DT2 / XT2",
+            "dx": 200,
+            "dy": 25,
+            "h": 350,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XS16",
+            "dx": 1600,
+            "dy": 300,
+            "h": 470,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-Finger RSFD 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 295,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS2",
+            "dx": 200,
+            "dy": 24,
+            "h": 425,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS18",
+            "dx": 1800,
+            "dy": 107,
+            "h": 590,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 12,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 15,
+      "description": "Straße, noise, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 1,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "F 200",
+            "dx": 200,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XS2",
+            "dx": 200,
+            "dy": 100,
+            "h": 340,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XS16",
+            "dx": 1600,
+            "dy": 300,
+            "h": 470,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 225",
+            "dx": 225,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-Finger RSFD 200",
+            "dx": 200,
+            "dy": 100,
+            "h": 325,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS4",
+            "dx": 400,
+            "dy": 35,
+            "h": 445,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS18",
+            "dx": 1800,
+            "dy": 107,
+            "h": 590,
+            "noise": 1,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 8,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 16,
+      "description": "Straße, h<250, TLTP, noise",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 1,
+        "is_tltp": 1,
+        "is_eta": 0,
+        "is_noise": 1,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE-LS",
+            "dx": 100,
+            "dy": 30,
+            "h": 180,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          }
+        ],
+        "total_count": 1,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 17,
+      "description": "Straße, h<250, TLTP, noise, dx>=80",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 1,
+        "is_tltp": 1,
+        "is_eta": 0,
+        "is_noise": 1,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE-LS",
+            "dx": 100,
+            "dy": 30,
+            "h": 180,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          }
+        ],
+        "total_count": 1,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 18,
+      "description": "Straße, h<250, TLTP, noise, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 1,
+        "is_tltp": 1,
+        "is_eta": 0,
+        "is_noise": 1,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [],
+        "total_count": 0,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 19,
+      "description": "Straße, TLTP, ETA",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR2",
+            "dx": 160,
+            "dy": 24,
+            "h": 400,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS2",
+            "dx": 200,
+            "dy": 24,
+            "h": 425,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 6,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 20,
+      "description": "Straße, TLTP, ETA, dx>=80",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR2",
+            "dx": 160,
+            "dy": 24,
+            "h": 400,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS2",
+            "dx": 200,
+            "dy": 24,
+            "h": 425,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 6,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 21,
+      "description": "Straße, TLTP, ETA, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR4",
+            "dx": 320,
+            "dy": 35,
+            "h": 420,
+            "noise": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MODULAR LR-LS4",
+            "dx": 400,
+            "dy": 35,
+            "h": 445,
+            "noise": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Lamellenfuge"
+          }
+        ],
+        "total_count": 2,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": true
+        }
+      }
+    },
+    {
+      "test_id": 22,
+      "description": "Bahn",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "Typ DB 40",
+            "dx": 80,
+            "dy": 40,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "Typ 30 DB",
+            "dx": 60,
+            "dy": 40,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MAT Typ T40",
+            "dx": 80,
+            "dy": 40,
+            "h": 200,
+            "kat": "Mattenprofil"
+          }
+        ],
+        "total_count": 3,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": true,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 23,
+      "description": "Bahn, dx>=80",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "Typ DB 40",
+            "dx": 80,
+            "dy": 40,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "Typ 80 DB",
+            "dx": 100,
+            "dy": 60,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MAT Typ T40",
+            "dx": 80,
+            "dy": 40,
+            "h": 200,
+            "kat": "Mattenprofil"
+          }
+        ],
+        "total_count": 3,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": true,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 24,
+      "description": "Bahn, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "Typ DB 160",
+            "dx": 160,
+            "dy": 130,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "Typ 260 DB",
+            "dx": 260,
+            "dy": 200,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MAT Typ T260",
+            "dx": 260,
+            "dy": 200,
+            "h": 200,
+            "kat": "Mattenprofil"
+          }
+        ],
+        "total_count": 3,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": true,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 25,
+      "description": "Bahn, h<250",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 1,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "Typ DB 40",
+            "dx": 80,
+            "dy": 40,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "Typ 30 DB",
+            "dx": 60,
+            "dy": 40,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MAT Typ T40",
+            "dx": 80,
+            "dy": 40,
+            "h": 200,
+            "kat": "Mattenprofil"
+          }
+        ],
+        "total_count": 3,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": true,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 26,
+      "description": "Bahn, h<250, dx>=80",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 1,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "Typ DB 40",
+            "dx": 80,
+            "dy": 40,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "Typ 80 DB",
+            "dx": 100,
+            "dy": 60,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MAT Typ T40",
+            "dx": 80,
+            "dy": 40,
+            "h": 200,
+            "kat": "Mattenprofil"
+          }
+        ],
+        "total_count": 3,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": true,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 27,
+      "description": "Bahn, h<250, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 1,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "Typ DB 160",
+            "dx": 160,
+            "dy": 130,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "Typ 260 DB",
+            "dx": 260,
+            "dy": 200,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MAT Typ T260",
+            "dx": 260,
+            "dy": 200,
+            "h": 200,
+            "kat": "Mattenprofil"
+          }
+        ],
+        "total_count": 3,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": true,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 28,
+      "description": "Bahn, TLTP",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [],
+        "total_count": 0,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 29,
+      "description": "Bahn, TLTP, dx>=80",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [],
+        "total_count": 0,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 30,
+      "description": "Bahn, TLTP, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [],
+        "total_count": 0,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 31,
+      "description": "Bahn, ETA",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [],
+        "total_count": 0,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 32,
+      "description": "Bahn, ETA, dx>=80",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [],
+        "total_count": 0,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 33,
+      "description": "Bahn, ETA, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [],
+        "total_count": 0,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 34,
+      "description": "Bahn, TLTP, ETA",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [],
+        "total_count": 0,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 35,
+      "description": "Bahn, TLTP, ETA, dx>=80",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [],
+        "total_count": 0,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 36,
+      "description": "Bahn, TLTP, ETA, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [],
+        "total_count": 0,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 37,
+      "description": "Rad/Fuß",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Gumba",
+            "Typ": "BJ 50",
+            "dx": 50,
+            "dy": 40,
+            "h": 60,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "80-1",
+            "dx": 80,
+            "dy": 35,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "Typ 80-1 HP/E",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "100-1 Fi",
+            "dx": 100,
+            "dy": 35,
+            "h": 250,
+            "noise": 1,
+            "rad": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "K30",
+            "dx": 40,
+            "dy": 15,
+            "h": 100,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "D1",
+            "dx": 70,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XL1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "30 ST",
+            "dx": 60,
+            "dy": 40,
+            "h": 250,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-Flex 50",
+            "dx": 50,
+            "dy": 50,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FLEX",
+            "dx": 80,
+            "dy": 40,
+            "h": 150,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FP",
+            "dx": 100,
+            "dy": 75,
+            "h": 250,
+            "noise": 1,
+            "rad": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "Typ T 40 Straße",
+            "dx": 60,
+            "dy": 40,
+            "h": 250,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "Typ T 40 Gehw",
+            "dx": 60,
+            "dy": 40,
+            "h": 150,
+            "rad": 1,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-Finger RSFD 60",
+            "dx": 60,
+            "dy": 100,
+            "h": 295,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE",
+            "dx": 80,
+            "dy": 30,
+            "h": 180,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          }
+        ],
+        "total_count": 23,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": true,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 38,
+      "description": "Rad/Fuß, dx>=80",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Gumba",
+            "Typ": "BJ 100",
+            "dx": 100,
+            "dy": 60,
+            "h": 80,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "80-1",
+            "dx": 80,
+            "dy": 35,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "Typ 80-1 HP/E",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "100-1 Fi",
+            "dx": 100,
+            "dy": 35,
+            "h": 250,
+            "noise": 1,
+            "rad": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "E1-80",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XL1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "80 ST",
+            "dx": 80,
+            "dy": 60,
+            "h": 250,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FLEX",
+            "dx": 80,
+            "dy": 40,
+            "h": 150,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-Flex 80",
+            "dx": 80,
+            "dy": 80,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FP",
+            "dx": 100,
+            "dy": 75,
+            "h": 250,
+            "noise": 1,
+            "rad": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE",
+            "dx": 80,
+            "dy": 30,
+            "h": 180,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "Typ T 80 Straße",
+            "dx": 80,
+            "dy": 60,
+            "h": 250,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "Typ T 80 Gehw",
+            "dx": 80,
+            "dy": 60,
+            "h": 150,
+            "rad": 1,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-Finger RSFD 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 295,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          }
+        ],
+        "total_count": 22,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": true,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 39,
+      "description": "Rad/Fuß, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Gumba",
+            "Typ": "BJ 165",
+            "dx": 165,
+            "dy": 60,
+            "h": 100,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "E2-160",
+            "dx": 160,
+            "dy": 60,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 200",
+            "dx": 200,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-Flex 200",
+            "dx": 200,
+            "dy": 200,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 225",
+            "dx": 225,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-Finger RSFD 200",
+            "dx": 200,
+            "dy": 100,
+            "h": 325,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          }
+        ],
+        "total_count": 7,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": true,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 40,
+      "description": "Rad/Fuß, h<250",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 1,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Gumba",
+            "Typ": "BJ 50",
+            "dx": 50,
+            "dy": 40,
+            "h": 60,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "80-1",
+            "dx": 80,
+            "dy": 35,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "Typ 80-1 HP/E",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "K30",
+            "dx": 40,
+            "dy": 15,
+            "h": 100,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "D1",
+            "dx": 70,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "30 F",
+            "dx": 60,
+            "dy": 40,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-Flex 50",
+            "dx": 50,
+            "dy": 50,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FLEX",
+            "dx": 80,
+            "dy": 40,
+            "h": 150,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "Typ T 40 Gehw",
+            "dx": 60,
+            "dy": 40,
+            "h": 150,
+            "rad": 1,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE",
+            "dx": 80,
+            "dy": 30,
+            "h": 180,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE-LS",
+            "dx": 100,
+            "dy": 30,
+            "h": 180,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          }
+        ],
+        "total_count": 15,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": true,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 41,
+      "description": "Rad/Fuß, h<250, dx>=80",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 1,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Gumba",
+            "Typ": "BJ 100",
+            "dx": 100,
+            "dy": 60,
+            "h": 80,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "80-1",
+            "dx": 80,
+            "dy": 35,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "Typ 80-1 HP/E",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "E1-80",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "80 F",
+            "dx": 80,
+            "dy": 60,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FLEX",
+            "dx": 80,
+            "dy": 40,
+            "h": 150,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-Flex 80",
+            "dx": 80,
+            "dy": 80,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE",
+            "dx": 80,
+            "dy": 30,
+            "h": 180,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "Typ T 80 Gehw",
+            "dx": 80,
+            "dy": 60,
+            "h": 150,
+            "rad": 1,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE-LS",
+            "dx": 100,
+            "dy": 30,
+            "h": 180,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          }
+        ],
+        "total_count": 14,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": true,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 42,
+      "description": "Rad/Fuß, h<250, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 1,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Gumba",
+            "Typ": "BJ 165",
+            "dx": 165,
+            "dy": 60,
+            "h": 100,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "E2-160",
+            "dx": 160,
+            "dy": 60,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 200",
+            "dx": 200,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-Flex 200",
+            "dx": 200,
+            "dy": 200,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          }
+        ],
+        "total_count": 4,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": true,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 43,
+      "description": "Rad/Fuß, TLTP",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Jannasch",
+            "Typ": "100-1 Fi",
+            "dx": 100,
+            "dy": 35,
+            "h": 250,
+            "noise": 1,
+            "rad": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "D1",
+            "dx": 70,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XL1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FP",
+            "dx": 100,
+            "dy": 75,
+            "h": 250,
+            "noise": 1,
+            "rad": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE",
+            "dx": 80,
+            "dy": 30,
+            "h": 180,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          }
+        ],
+        "total_count": 10,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 44,
+      "description": "Rad/Fuß, TLTP, dx>=80",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Jannasch",
+            "Typ": "100-1 Fi",
+            "dx": 100,
+            "dy": 35,
+            "h": 250,
+            "noise": 1,
+            "rad": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XL1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FP",
+            "dx": 100,
+            "dy": 75,
+            "h": 250,
+            "noise": 1,
+            "rad": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE",
+            "dx": 80,
+            "dy": 30,
+            "h": 180,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          }
+        ],
+        "total_count": 9,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 45,
+      "description": "Rad/Fuß, TLTP, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-FINGER KF 190",
+            "dx": 190,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 1,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          }
+        ],
+        "total_count": 1,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 46,
+      "description": "Rad/Fuß, ETA",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FP",
+            "dx": 100,
+            "dy": 75,
+            "h": 250,
+            "noise": 1,
+            "rad": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          }
+        ],
+        "total_count": 7,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 47,
+      "description": "Rad/Fuß, ETA, dx>=80",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FP",
+            "dx": 100,
+            "dy": 75,
+            "h": 250,
+            "noise": 1,
+            "rad": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          }
+        ],
+        "total_count": 7,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 48,
+      "description": "Rad/Fuß, ETA, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-F 225",
+            "dx": 225,
+            "dy": 100,
+            "h": 300,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Fingerfuge"
+          }
+        ],
+        "total_count": 1,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 49,
+      "description": "Rad/Fuß, TLTP, ETA",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FP",
+            "dx": 100,
+            "dy": 75,
+            "h": 250,
+            "noise": 1,
+            "rad": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          }
+        ],
+        "total_count": 5,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 50,
+      "description": "Rad/Fuß, TLTP, ETA, dx>=80",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": 80,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "XW1",
+            "dx": 95,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FP",
+            "dx": 100,
+            "dy": 75,
+            "h": 250,
+            "noise": 1,
+            "rad": 1,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS-LS",
+            "dx": 100,
+            "dy": 40,
+            "h": 250,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          }
+        ],
+        "total_count": 5,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 51,
+      "description": "Rad/Fuß, TLTP, ETA, dx>=150, dy>=30",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 0,
+        "is_tltp": 1,
+        "is_eta": 1,
+        "is_noise": 0,
+        "dx_value": 150,
+        "dy_value": 30
+      },
+      "expected_outputs": {
+        "selected_products": [],
+        "total_count": 0,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 52,
+      "description": "Edge case 4",
+      "inputs": {
+        "sys_kat": 1,
+        "is_einbauh": 1,
+        "is_tltp": 1,
+        "is_eta": 1,
+        "is_noise": 1,
+        "dx_value": 100,
+        "dy_value": 40
+      },
+      "expected_outputs": {
+        "selected_products": [],
+        "total_count": 0,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": false,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 53,
+      "description": "Edge case 4",
+      "inputs": {
+        "sys_kat": 2,
+        "is_einbauh": 0,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": 60,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Maurer",
+            "Typ": "Typ DB 40",
+            "dx": 80,
+            "dy": 40,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "Typ 30 DB",
+            "dx": 60,
+            "dy": 40,
+            "h": 200,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-MAT Typ T40",
+            "dx": 80,
+            "dy": 40,
+            "h": 200,
+            "kat": "Mattenprofil"
+          }
+        ],
+        "total_count": 3,
+        "categories": {
+          "Einprofilfuge": false,
+          "Mattenprofil": true,
+          "Fingerfuge": false,
+          "Lamellenfuge": false
+        }
+      }
+    },
+    {
+      "test_id": 54,
+      "description": "Edge case 4",
+      "inputs": {
+        "sys_kat": 3,
+        "is_einbauh": 1,
+        "is_tltp": 0,
+        "is_eta": 0,
+        "is_noise": 0,
+        "dx_value": null,
+        "dy_value": null
+      },
+      "expected_outputs": {
+        "selected_products": [
+          {
+            "Herst": "Gumba",
+            "Typ": "BJ 50",
+            "dx": 50,
+            "dy": 40,
+            "h": 60,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "80-1",
+            "dx": 80,
+            "dy": 35,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Jannasch",
+            "Typ": "Typ 80-1 HP/E",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "K30",
+            "dx": 40,
+            "dy": 15,
+            "h": 100,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "D1",
+            "dx": 70,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "XC1",
+            "dx": 100,
+            "dy": 50,
+            "h": 190,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Maurer",
+            "Typ": "F 100",
+            "dx": 100,
+            "dy": 100,
+            "h": 0,
+            "noise": 1,
+            "closed": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Fingerfuge"
+          },
+          {
+            "Herst": "STOG",
+            "Typ": "30 F",
+            "dx": 60,
+            "dy": 40,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "VS-Flex 50",
+            "dx": 50,
+            "dy": 50,
+            "h": 200,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP",
+            "dx": 80,
+            "dy": 75,
+            "h": 230,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "Schreiber",
+            "Typ": "SP-FLEX",
+            "dx": 80,
+            "dy": 40,
+            "h": 150,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "Typ T 40 Gehw",
+            "dx": 60,
+            "dy": 40,
+            "h": 150,
+            "rad": 1,
+            "tltp": 0,
+            "eta": 0,
+            "kat": "Mattenprofil"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "TENSA-GRIP RS",
+            "dx": 80,
+            "dy": 40,
+            "h": 240,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE",
+            "dx": 80,
+            "dy": 30,
+            "h": 180,
+            "noise": 0,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 0,
+            "kat": "Einprofilfuge"
+          },
+          {
+            "Herst": "mageba",
+            "Typ": "CRETE RE-LS",
+            "dx": 100,
+            "dy": 30,
+            "h": 180,
+            "noise": 1,
+            "rad": 0,
+            "tltp": 1,
+            "eta": 1,
+            "kat": "Einprofilfuge"
+          }
+        ],
+        "total_count": 15,
+        "categories": {
+          "Einprofilfuge": true,
+          "Mattenprofil": true,
+          "Fingerfuge": true,
+          "Lamellenfuge": false
+        }
+      }
+    }
+  ]
+}
