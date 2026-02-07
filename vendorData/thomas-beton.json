@@ -1,0 +1,218 @@
+[
+  {
+    "gesellschaft": "Gloria Transportbeton GmbH & Co. KG",
+    "standort": "Büren",
+    "plz": "33142",
+    "adresse": "Hegensdorfer Straße 45, 33142 Büren",
+    "telefon": "+49 2951 937660",
+    "coords": [8.5582, 51.5421]
+  },
+  {
+    "gesellschaft": "Gloria Transportbeton GmbH & Co. KG",
+    "standort": "Delbrück-Boke",
+    "plz": "33129",
+    "adresse": "Boker Straße 101, 33129 Delbrück",
+    "telefon": "+49 5250 933033",
+    "coords": [8.5221, 51.7452]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG",
+    "standort": "Neufahrn in Niederbayern",
+    "plz": "84088",
+    "adresse": "Gewerbepark 1, 84088 Neufahrn",
+    "telefon": "+49 8773 707880",
+    "coords": [12.1852, 48.7354]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG",
+    "standort": "Hennigsdorf",
+    "plz": "16761",
+    "adresse": "Veltener Straße 12, 16761 Hennigsdorf",
+    "telefon": "+49 3302 202610",
+    "coords": [13.2042, 52.6452]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Schleusingen",
+    "plz": "98553",
+    "adresse": "Suhler Straße 40, 98553 Schleusingen",
+    "telefon": "+49 36841 40161",
+    "coords": [10.7452, 50.5121]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Zella-Mehlis",
+    "plz": "98544",
+    "adresse": "Industriestraße 15, 98544 Zella-Mehlis",
+    "telefon": "+49 3682 482501",
+    "coords": [10.6542, 50.6582]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Rudolstadt",
+    "plz": "07407",
+    "adresse": "Oststraße 14, 07407 Rudolstadt",
+    "telefon": "+49 3672 411833",
+    "coords": [11.3421, 50.7182]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Bad Salzungen",
+    "plz": "36433",
+    "adresse": "Im Brühl 2, 36433 Bad Salzungen",
+    "telefon": "+49 3695 621061",
+    "coords": [10.2321, 50.8121]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Günthersleben-Wechmar",
+    "plz": "99869",
+    "adresse": "Gewerbeparkstraße 1, 99869 Günthersleben",
+    "telefon": "+49 3621 704061",
+    "coords": [10.7652, 50.9012]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Pölzig",
+    "plz": "07554",
+    "adresse": "Gewerbegebiet 1, 07554 Pölzig",
+    "telefon": "+49 36695 22252",
+    "coords": [12.1952, 50.9452]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk und Prüfstelle)",
+    "standort": "Dornburg-Camburg",
+    "plz": "07774",
+    "adresse": "Gewerbegebiet Dorndorf, 07774 Dornburg-Camburg",
+    "telefon": "+49 36427 70561",
+    "coords": [11.6682, 51.0121]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Weimar",
+    "plz": "99427",
+    "adresse": "Kromsdorfer Straße 18, 99427 Weimar",
+    "telefon": "+49 3643 420261",
+    "coords": [11.3542, 51.0012]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Stotternheim",
+    "plz": "99195",
+    "adresse": "Erfurter Landstraße, 99195 Erfurt-Stotternheim",
+    "telefon": "+49 36204 50261",
+    "coords": [11.0542, 51.0582]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Halle-Ammendorf",
+    "plz": "06132",
+    "adresse": "Schachtstraße 5, 06132 Halle (Saale)",
+    "telefon": "+49 345 7758761",
+    "coords": [11.9852, 51.4252]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Magdeburg",
+    "plz": "39112",
+    "adresse": "Ottersleber Chaussee 91, 39120 Magdeburg",
+    "telefon": "+49 391 6224361",
+    "coords": [11.6121, 52.0952]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Mittweida",
+    "plz": "09648",
+    "adresse": "Leipziger Straße 45, 09648 Mittweida",
+    "telefon": "+49 3727 92061",
+    "coords": [12.9821, 50.9852]
+  },
+  {
+    "gesellschaft": "gth-beton GmbH & Co. KG (Werk)",
+    "standort": "Freital",
+    "plz": "01705",
+    "adresse": "Schachtstraße 12, 01705 Freital",
+    "telefon": "+49 351 6491261",
+    "coords": [13.6542, 51.0012]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Grimma-Hohnstädt",
+    "plz": "04668",
+    "adresse": "Wurzener Straße 101, 04668 Grimma",
+    "telefon": "+49 3437 919361",
+    "coords": [12.7421, 51.2582]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Liebschützberg",
+    "plz": "04758",
+    "adresse": "Gewerbegebiet Gaunitz, 04758 Liebschützberg",
+    "telefon": "+49 3435 921261",
+    "coords": [13.1252, 51.3121]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk und Prüfstelle)",
+    "standort": "Leipzig-Podelwitz",
+    "plz": "04356",
+    "adresse": "Wiederitzscher Straße, 04356 Leipzig",
+    "telefon": "+49 34294 73261",
+    "coords": [12.3852, 51.4121]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Torgau-Neiden",
+    "plz": "04880",
+    "adresse": "An der B 182, 04880 Elsnig",
+    "telefon": "+49 3421 716261",
+    "coords": [12.9652, 51.6182]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Neubrandenburg",
+    "plz": "17034",
+    "adresse": "Ihlenfelder Straße 110, 17034 Neubrandenburg",
+    "telefon": "+49 395 4225316",
+    "coords": [13.2624, 53.5586]
+  },
+  {
+    "gesellschaft": "gth-beton GmbH & Co. KG (Werk)",
+    "standort": "Cottbus",
+    "plz": "03044",
+    "adresse": "Dissenchener Straße 45, 03042 Cottbus",
+    "telefon": "+49 355 723361",
+    "coords": [14.3821, 51.7582]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Güterfelde-Stahnsdorf",
+    "plz": "14532",
+    "adresse": "Potsdamer Damm 1, 14532 Stahnsdorf",
+    "telefon": "+49 3329 62261",
+    "coords": [13.1852, 52.3754]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Berlin",
+    "plz": "12557",
+    "adresse": "Grünauer Straße 205, 12557 Berlin",
+    "telefon": "+49 30 6744061",
+    "coords": [13.5682, 52.4252]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Amerang",
+    "plz": "83123",
+    "adresse": "Kammer 5, 83123 Amerang",
+    "telefon": "+49 8075 914090",
+    "coords": [12.3121, 47.9852]
+  },
+  {
+    "gesellschaft": "th-beton GmbH & Co. KG (Werk)",
+    "standort": "Hohenkammer",
+    "plz": "85411",
+    "adresse": "Gewerbering 12, 85411 Hohenkammer",
+    "telefon": "+49 8137 931880",
+    "coords": [11.5252, 48.4252]
+  }
+]

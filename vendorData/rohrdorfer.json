@@ -1,0 +1,154 @@
+[
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Chiemgau GmbH & Co. KG",
+    "standort": "Ainring",
+    "plz": "83404",
+    "adresse": "Industriestraße 4, 83404 Ainring",
+    "telefon": "+49 8654 57790",
+    "coords": [12.9421, 47.8135]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Chiemgau GmbH & Co. KG",
+    "standort": "Grabenstätt",
+    "plz": "83355",
+    "adresse": "Erlstätter Straße 19, 83355 Grabenstätt",
+    "telefon": "+49 8661 243",
+    "coords": [12.5532, 47.8441]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Freising-Erding GmbH",
+    "standort": "Allershausen",
+    "plz": "85391",
+    "adresse": "Kammerfeldstraße 4, 85391 Allershausen",
+    "telefon": "+49 8166 99180",
+    "coords": [11.5921, 48.4321]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Freising-Erding GmbH",
+    "standort": "Erding",
+    "plz": "85435",
+    "adresse": "Daimlerstraße 4, 85435 Erding",
+    "telefon": "+49 8122 97340",
+    "coords": [11.8892, 48.3012]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Freising-Erding GmbH",
+    "standort": "Hallbergmoos",
+    "plz": "85399",
+    "adresse": "Am Söldnermoos 11, 85399 Hallbergmoos",
+    "telefon": "+49 811 555360",
+    "coords": [11.7284, 48.3321]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Freising-Erding GmbH",
+    "standort": "Pulling",
+    "plz": "85354",
+    "adresse": "Sünzhauser Straße 22, 85354 Freising",
+    "telefon": "+49 8161 13322",
+    "coords": [11.7121, 48.3754]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton GmbH",
+    "standort": "Oberndorf/Ebersberg",
+    "plz": "85560",
+    "adresse": "Oberndorf 22, 85560 Ebersberg",
+    "telefon": "+49 8092 20111",
+    "coords": [11.9542, 48.0652]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Hallertau GmbH & Co. KG",
+    "standort": "Mainburg/Steinbach",
+    "plz": "84048",
+    "adresse": "Steinbach 42, 84048 Mainburg",
+    "telefon": "+49 8751 845210",
+    "coords": [11.7821, 48.6254]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Isar Amper GmbH & Co. KG",
+    "standort": "Moosburg an der Isar",
+    "plz": "85368",
+    "adresse": "An der Isar 2, 85368 Moosburg",
+    "telefon": "+49 8761 72150",
+    "coords": [11.9421, 48.4682]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Oberland GmbH & Co. KG",
+    "standort": "Egling",
+    "plz": "82544",
+    "adresse": "Am Moosrain 2, 82544 Egling",
+    "telefon": "+49 8176 93100",
+    "coords": [11.5121, 47.9254]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Oberland GmbH & Co. KG",
+    "standort": "Garmisch-Partenkirchen",
+    "plz": "82467",
+    "adresse": "St.-Martin-Straße 111, 82467 Garmisch-Partenkirchen",
+    "telefon": "+49 8821 95350",
+    "coords": [11.0821, 47.4921]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Oberland GmbH & Co. KG",
+    "standort": "Geretsried/Gelting",
+    "plz": "82538",
+    "adresse": "Leitenstraße 20, 82538 Geretsried",
+    "telefon": "+49 8171 23090",
+    "coords": [11.4821, 47.9132]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Rosenheim-Söchtenau GmbH",
+    "standort": "Söchtenau",
+    "plz": "83139",
+    "adresse": "Siferling 1, 83139 Söchtenau",
+    "telefon": "+49 8055 903050",
+    "coords": [12.2321, 47.9354]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Rosenheim-Söchtenau GmbH",
+    "standort": "Rosenheim",
+    "plz": "83022",
+    "adresse": "Kastenauer Straße 37, 83022 Rosenheim",
+    "telefon": "+49 8031 21620",
+    "coords": [12.1321, 47.8542]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton München GmbH & Co. KG",
+    "standort": "Kirchstockach",
+    "plz": "85649",
+    "adresse": "Bründlweg 1, 85649 Brunnthal",
+    "telefon": "+49 8102 784820",
+    "coords": [11.7021, 48.0282]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton München GmbH & Co. KG",
+    "standort": "München-West",
+    "plz": "81245",
+    "adresse": "Bodenseestraße 202, 81245 München",
+    "telefon": "+49 89 8006880",
+    "coords": [11.4252, 48.1454]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Salzburg GmbH",
+    "standort": "Henndorf am Wallersee",
+    "plz": "5302",
+    "adresse": "Hankham 15, 5302 Henndorf am Wallersee, AT",
+    "telefon": "+43 6214 8213",
+    "coords": [13.1852, 47.9012]
+  },
+  {
+    "gesellschaft": "Rohrdorfer Transportbeton Salzburg GmbH",
+    "standort": "Leogang",
+    "plz": "5771",
+    "adresse": "Leogang 114, 5771 Leogang, AT",
+    "telefon": "+43 6583 8243",
+    "coords": [12.7532, 47.4382]
+  },
+  {
+    "gesellschaft": "Völs Beton GmbH",
+    "standort": "Völs",
+    "plz": "6173",
+    "adresse": "Bahnhofstraße 34, 6173 Völs, AT",
+    "telefon": "+43 512 302060",
+    "coords": [11.3252, 47.2542]
+  }
+]

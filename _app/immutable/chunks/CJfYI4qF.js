@@ -1,1 +1,0 @@
-import{L as a}from"./DM2Ymuh1.js";a();
