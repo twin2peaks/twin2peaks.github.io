@@ -1,1 +1,0 @@
-import{w as n}from"./92BxO-YI.js";function i(){const l={calculationResult:null},{subscribe:u,set:a,update:s}=n(l),e={subscribe:u,set:t=>{a(t)},update:t=>{s(t)},reset:()=>{a(l)},setCalculationResult:t=>{e.update(o=>({...o,calculationResult:t}))},clearCalculationResult:()=>{e.update(t=>({...t,calculationResult:null}))}};return e}const c=i();export{c as b};
