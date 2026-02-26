@@ -1,0 +1,2919 @@
+[
+  {
+    "gesellschaft": "SBS Sächsische Bewehrungsstahl GmbH",
+    "plz": "01612",
+    "adresse": "Industriestraße A 4",
+    "website": "https://www.saechsische-bewehrungsstahl.de/",
+    "coords": [
+      13.3683355,
+      51.3325945
+    ]
+  },
+  {
+    "gesellschaft": "Gäbler Stahlhandel",
+    "plz": "01904",
+    "adresse": "Gewerbering S 9",
+    "website": "http://www.gaeblerstahl.de/",
+    "coords": [
+      14.6059744,
+      50.9500707
+    ]
+  },
+  {
+    "gesellschaft": "Baustahl Armierung Kamenz GmbH",
+    "plz": "01917",
+    "adresse": "Schwarzer Weg 21",
+    "website": "https://www.bak-kamenz.de/",
+    "coords": [
+      14.0933903,
+      51.2819526
+    ]
+  },
+  {
+    "gesellschaft": "Johne & Groß GmbH",
+    "plz": "01936",
+    "adresse": "Kamenzer Str. 18",
+    "website": "http://www.jgg-stahl.de/",
+    "coords": [
+      13.9752093,
+      51.2808155
+    ]
+  },
+  {
+    "gesellschaft": "BEST Baueisen- und Stahlbearbeitung",
+    "plz": "04050",
+    "adresse": "Industriestraße 25",
+    "website": "http://www.best-baueisen.at/",
+    "coords": [
+      13.4089947,
+      52.4552772
+    ]
+  },
+  {
+    "gesellschaft": "Firma Stahlform",
+    "plz": "05110",
+    "adresse": "Alte Bundesstraße 14",
+    "website": "http://www.stahlform.com/",
+    "coords": [
+      9.0533556,
+      53.9154275
+    ]
+  },
+  {
+    "gesellschaft": "Betonstahl Halle GmbH",
+    "plz": "06110",
+    "adresse": "Rudolf-Breitscheid-Straße 13",
+    "website": "https://betonstahl-halle.de/",
+    "coords": [
+      11.980317,
+      51.4770913
+    ]
+  },
+  {
+    "gesellschaft": "QSH-Querfurter Stahlhandel GmbH",
+    "plz": "06268",
+    "adresse": "Döcklitzer Tor 58",
+    "website": "http://www.querfurter-stahlhandel.de/",
+    "coords": [
+      11.6024008,
+      51.3887371
+    ]
+  },
+  {
+    "gesellschaft": "BS Baustahlarmierung GmbH",
+    "plz": "06269",
+    "adresse": "Bachenauer Str. 10",
+    "website": "http://bs-baustahlarmierung.de/",
+    "coords": [
+      9.2040624,
+      49.2646252
+    ]
+  },
+  {
+    "gesellschaft": "BBW Betonstahl-Biegebetrieb Weißenfels GmbH & Co. KG",
+    "plz": "06667",
+    "adresse": "Große Deichstraße 1",
+    "website": "http://www.bbw-weissenfels.de/",
+    "coords": [
+      11.9601254,
+      51.200263
+    ]
+  },
+  {
+    "gesellschaft": "Stahl und Markt GmbH",
+    "plz": "07066",
+    "adresse": "Buchäckerring 10",
+    "website": "http://www.stahlundmarkt.de/",
+    "coords": [
+      9.0773701,
+      49.2150265
+    ]
+  },
+  {
+    "gesellschaft": "Stiefel Stahl GmbH & Co. KG",
+    "plz": "07221",
+    "adresse": "In den Sangen 3",
+    "website": "https://stiefelstahl.de/",
+    "coords": [
+      8.1733961,
+      48.7785441
+    ]
+  },
+  {
+    "gesellschaft": "Eisen-und Stahlhandel Straub GmbH",
+    "plz": "07227",
+    "adresse": "Werner-Wild-Straße 1",
+    "website": "http://www.straub-lichtenau.de/",
+    "coords": [
+      6.777962,
+      51.4658451
+    ]
+  },
+  {
+    "gesellschaft": "Donau Stahlhandel (Vöhringen)",
+    "plz": "07309",
+    "adresse": "Am Eisenbahnweiher 2",
+    "website": "http://www.donaustahlhandel.de/",
+    "coords": [
+      10.1519305,
+      48.3045855
+    ]
+  },
+  {
+    "gesellschaft": "Biechele Stahl und Eisenwaren",
+    "plz": "07351",
+    "adresse": "Kapuzinerstraße 12",
+    "website": "https://eisenwaren-biechele.de/",
+    "coords": [
+      11.5569173,
+      48.1272675
+    ]
+  },
+  {
+    "gesellschaft": "C. Flächer Eisenhandel",
+    "plz": "07351",
+    "adresse": "Freiburger Str. 36",
+    "website": "https://www.flaecher.de/",
+    "coords": [
+      6.8296156,
+      50.9349553
+    ]
+  },
+  {
+    "gesellschaft": "Arnold Stahlhandels GmbH",
+    "plz": "07365",
+    "adresse": "Streichhoffeld 2",
+    "website": "http://www.arnold-stahlhandel.de/",
+    "coords": [
+      10.0254707,
+      48.822716
+    ]
+  },
+  {
+    "gesellschaft": "Eberhardt Bewehrungsbau GmbH",
+    "plz": "07371",
+    "adresse": "Hindenburgstraße 5",
+    "website": "https://eberhardt-bewehrungsbau.de/",
+    "coords": [
+      13.7589296,
+      51.0569118
+    ]
+  },
+  {
+    "gesellschaft": "Sülzle Stahlpartner GmbH",
+    "plz": "07428",
+    "adresse": "Hauffstraße 14",
+    "website": "https://suelzle-stahlpartner.de/standorte/rosenfeld/",
+    "coords": [
+      13.2898028,
+      52.4067228
+    ]
+  },
+  {
+    "gesellschaft": "Sülzle Stahlshop GmbH",
+    "plz": "07428",
+    "adresse": "Hauffstraße 14",
+    "website": "https://suelzle-stahlshop.de/",
+    "coords": [
+      13.2898028,
+      52.4067228
+    ]
+  },
+  {
+    "gesellschaft": "DHV Stahlhandel",
+    "plz": "07457",
+    "adresse": "Merkurstraße 5",
+    "website": "http://www.dhv-stahlhandel.de/",
+    "coords": [
+      6.7700574,
+      51.2053279
+    ]
+  },
+  {
+    "gesellschaft": "R+H GmbH Stahlhandel",
+    "plz": "07527",
+    "adresse": "Grimmenstein 13",
+    "website": "http://www.ruh-gmbh.de/",
+    "coords": [
+      9.4591155,
+      51.8325305
+    ]
+  },
+  {
+    "gesellschaft": "SEBA-STAHL Aloisius Baier",
+    "plz": "07528",
+    "adresse": "Sackweiher 1",
+    "website": "http://www.seba-stahl.de/",
+    "coords": [
+      9.698221,
+      47.6500906
+    ]
+  },
+  {
+    "gesellschaft": "Herzog Eisenform GmbH",
+    "plz": "07576",
+    "adresse": "Bittelschießer Str. 38",
+    "website": "http://www.herzog-eisenform.de/",
+    "coords": [
+      9.2438065,
+      48.0152697
+    ]
+  },
+  {
+    "gesellschaft": "BSB-Baustahl-Biegebetrieb",
+    "plz": "07623",
+    "adresse": "Güterstraße 13",
+    "website": "http://www.bsb-vs.de/anfahrtsskizze/",
+    "coords": [
+      6.6738449,
+      51.4162594
+    ]
+  },
+  {
+    "gesellschaft": "Stahlhandel Eisen-Stoll Beha",
+    "plz": "07651",
+    "adresse": "Gutachstraße 58",
+    "website": "http://www.eisen-stoll.de/",
+    "coords": [
+      8.1999667,
+      47.9213943
+    ]
+  },
+  {
+    "gesellschaft": "BHB-Betonstahlhandel",
+    "plz": "07665",
+    "adresse": "Benzstraße 12",
+    "website": "https://www.bhb-stahl.de/",
+    "coords": [
+      13.3828468,
+      52.4211866
+    ]
+  },
+  {
+    "gesellschaft": "BSG-Stahlhandel",
+    "plz": "07665",
+    "adresse": "Am Untergrün 11",
+    "website": "https://www.bsg-stahlhandel.de/",
+    "coords": [
+      7.7714113,
+      48.0585978
+    ]
+  },
+  {
+    "gesellschaft": "BSB-Baustahl- Biegebetrieb",
+    "plz": "07721",
+    "adresse": "Mühlenstraße 17",
+    "website": "http://www.bsb-vs.de/",
+    "coords": [
+      13.3526458,
+      52.4369006
+    ]
+  },
+  {
+    "gesellschaft": "BSB Beton - Stahl und Baustoff GmbH",
+    "plz": "07721",
+    "adresse": "Mühlenstraße 17a",
+    "website": "http://www.uhl-baustoffe.de/",
+    "coords": null
+  },
+  {
+    "gesellschaft": "Fröhlich Eisenhandel",
+    "plz": "07731",
+    "adresse": "Gewerbestraße 20",
+    "website": "https://www.froehlich-eisenhandel.de/",
+    "coords": [
+      8.3225083,
+      49.9588329
+    ]
+  },
+  {
+    "gesellschaft": "BSB Werk Lauchringen",
+    "plz": "07741",
+    "adresse": "Industriestraße 17A",
+    "website": "http://www.bsb-vs.de/",
+    "coords": [
+      8.0355302,
+      50.9039677
+    ]
+  },
+  {
+    "gesellschaft": "Christian Brädler Bewehrungstechnik",
+    "plz": "07742",
+    "adresse": "Kirchstraße 3",
+    "website": "http://www.braedler-bewehrungen.de/",
+    "coords": [
+      12.6235445,
+      53.6347754
+    ]
+  },
+  {
+    "gesellschaft": "Eisenbiegerei.de",
+    "plz": "07774",
+    "adresse": "In d. Oberaue 11",
+    "website": "http://eisenbiegerei.de/",
+    "coords": [
+      11.7230226,
+      51.0376402
+    ]
+  },
+  {
+    "gesellschaft": "D & I GmbH",
+    "plz": "07807",
+    "adresse": "Badstraße 12",
+    "website": "http://www.d-u-i.de/",
+    "coords": [
+      11.544286,
+      48.1018621
+    ]
+  },
+  {
+    "gesellschaft": "SchwarzwaldEisen GmbH",
+    "plz": "07821",
+    "adresse": "Carl-Benz-Straße 11",
+    "website": "https://www.schwarzwald-eisen.de/",
+    "coords": [
+      8.7489868,
+      50.1220371
+    ]
+  },
+  {
+    "gesellschaft": "Eisen-Schmid GmbH & Co. KG",
+    "plz": "07831",
+    "adresse": "Eisenbahnstraße 3",
+    "website": "https://www.eisen-schmid.de/",
+    "coords": [
+      13.4320988,
+      52.5017067
+    ]
+  },
+  {
+    "gesellschaft": "Güner Baustahlarmierung GmbH",
+    "plz": "07854",
+    "adresse": "Römerstraße 42",
+    "website": "http://www.xn--gner-baustahlarmierung-gmbh-i3c.com/",
+    "coords": [
+      6.9885086,
+      50.8884084
+    ]
+  },
+  {
+    "gesellschaft": "Friedrich Kicherer GmbH & Co. KG",
+    "plz": "07961",
+    "adresse": "Ludwig-Lutz-Straße 4",
+    "website": "https://www.kicherer.de/",
+    "coords": [
+      10.1768801,
+      48.9493691
+    ]
+  },
+  {
+    "gesellschaft": "ZSC Zwickauer Stahl Centrum GmbH",
+    "plz": "08056",
+    "adresse": "Brauereistraße 45",
+    "website": "http://www.zsc-zwickau.de/",
+    "coords": [
+      12.4687899,
+      50.5283302
+    ]
+  },
+  {
+    "gesellschaft": "BBS Bayerische Bewehrungsstahl GmbH",
+    "plz": "08292",
+    "adresse": "Siefenwanger Str. 35",
+    "website": "https://www.bayerische-bewehrungsstahl.de/",
+    "coords": [
+      10.5893645,
+      48.3426554
+    ]
+  },
+  {
+    "gesellschaft": "Atterer Stahlcenter GmbH",
+    "plz": "08342",
+    "adresse": "Siemensring 34",
+    "website": "https://www.atterer.de/",
+    "coords": [
+      10.583102,
+      47.771265
+    ]
+  },
+  {
+    "gesellschaft": "Keller-Stahl AG",
+    "plz": "08500",
+    "adresse": "Langfeldstrasse 52",
+    "website": "https://www.kellerstahl.ch/",
+    "coords": [
+      11.6108083,
+      48.1951284
+    ]
+  },
+  {
+    "gesellschaft": "Dr. Wilhelm Mertens GmbH",
+    "plz": "12167",
+    "adresse": "Birkbuschstraße 52",
+    "website": "https://www.mertens-stahl.de/",
+    "coords": [
+      13.3321176,
+      52.4435136
+    ]
+  },
+  {
+    "gesellschaft": "Henze Stahltechnik Berlin",
+    "plz": "13509",
+    "adresse": "Innungsstraße 62",
+    "website": "https://www.henze-stahltechnik.de/",
+    "coords": [
+      13.3103355,
+      52.5797403
+    ]
+  },
+  {
+    "gesellschaft": "SMB - Müller",
+    "plz": "14467",
+    "adresse": "Mittelstraße 38",
+    "website": "http://www.smb-potsdam.de/",
+    "coords": [
+      13.0590187,
+      52.4029242
+    ]
+  },
+  {
+    "gesellschaft": "Stahlhandel Potsdam GmbH",
+    "plz": "14476",
+    "adresse": "Am Friedrichspark 9",
+    "website": "http://www.stahlhandel-potsdam.de/",
+    "coords": [
+      12.9661633,
+      52.4759114
+    ]
+  },
+  {
+    "gesellschaft": "Trebbiner Stahlgesellschaft mbH",
+    "plz": "14959",
+    "adresse": "Gewerbegebiet Zossener Str. 1",
+    "website": "http://www.tsg-trebbin.de/",
+    "coords": [
+      13.2407484,
+      52.2171195
+    ]
+  },
+  {
+    "gesellschaft": "EuroStahl Handels GmbH & Co. KG",
+    "plz": "14974",
+    "adresse": "Genshagener Str. 37A",
+    "website": "https://www.euro-stahl.de/kontakt.html",
+    "coords": [
+      13.2718625,
+      52.3012395
+    ]
+  },
+  {
+    "gesellschaft": "BAG Mannheim GmbH (NL Berlin)",
+    "plz": "15562",
+    "adresse": "Robert-Guthmann-Straße 17",
+    "website": "http://www.bag-mannheim.de/",
+    "coords": [
+      13.6731916,
+      52.3198812
+    ]
+  },
+  {
+    "gesellschaft": "Hinze Stahl & Service GmbH",
+    "plz": "15562",
+    "adresse": "Tasdorf Süd 16",
+    "website": "https://www.hinze-stahl.de/",
+    "coords": [
+      13.782997,
+      52.4913715
+    ]
+  },
+  {
+    "gesellschaft": "DARO-STAHL GmbH",
+    "plz": "15806",
+    "adresse": "Zossener Str. 27",
+    "website": "http://www.daro-stahl.de/",
+    "coords": [
+      13.3862085,
+      52.2415015
+    ]
+  },
+  {
+    "gesellschaft": "Lenz Stahlhandel GmbH",
+    "plz": "15859",
+    "adresse": "Industriestraße 15",
+    "website": "http://www.lenzstahlhandel.de/",
+    "coords": [
+      13.6341494,
+      52.5089276
+    ]
+  },
+  {
+    "gesellschaft": "SBB Stahl & Bau GmbH",
+    "plz": "15890",
+    "adresse": "Oderlandstraße 3",
+    "website": "http://www.sbb-stahl.com/",
+    "coords": [
+      14.656706,
+      52.155843
+    ]
+  },
+  {
+    "gesellschaft": "Eberswalder Stahlhandel GmbH",
+    "plz": "16225",
+    "adresse": "Britzer Str. 54",
+    "website": "https://eberswalder-stahlhandel.de/",
+    "coords": [
+      13.7958348,
+      52.8517356
+    ]
+  },
+  {
+    "gesellschaft": "Stahlhandel Barnim",
+    "plz": "16227",
+    "adresse": "Angermünder Str. 41 d",
+    "website": "https://stahlhandel-barnim.de/",
+    "coords": [
+      13.7554389,
+      52.8462847
+    ]
+  },
+  {
+    "gesellschaft": "Stahlhandel Bartoczewitz GmbH",
+    "plz": "16727",
+    "adresse": "Eduard-Maurer-Straße 5",
+    "website": "https://stahlhandel-bartoczewitz.de/",
+    "coords": [
+      13.2069259,
+      52.6508102
+    ]
+  },
+  {
+    "gesellschaft": "Schlubach Betonstahl",
+    "plz": "16775",
+    "adresse": "Siedlung III 32",
+    "website": "https://www.schlubach-betonstahl.de/",
+    "coords": [
+      13.0632377,
+      52.8914867
+    ]
+  },
+  {
+    "gesellschaft": "Stahl-Bau-Handel Seeger GmbH",
+    "plz": "16816",
+    "adresse": "Friedrich-Bückling-Straße 28",
+    "website": "http://www.stahl-bau-handel.de/",
+    "coords": [
+      12.800568,
+      52.8855863
+    ]
+  },
+  {
+    "gesellschaft": "Heinrich Schütt KG (Neubrandenburg)",
+    "plz": "17033",
+    "adresse": "Justus-von-Liebig-Straße 4",
+    "website": "https://www.heinrich-schuett.de/",
+    "coords": [
+      13.211859,
+      53.5710747
+    ]
+  },
+  {
+    "gesellschaft": "Neubrandenburger Stahlhandel und Bewehrungsbau GmbH",
+    "plz": "17034",
+    "adresse": "Ihlenfelder Str. 118",
+    "website": "https://neubrandenburger-stahlhandel.de/",
+    "coords": [
+      13.2910982,
+      53.5733068
+    ]
+  },
+  {
+    "gesellschaft": "BTS Baustahl-Technik Stralsund GmbH",
+    "plz": "18439",
+    "adresse": "Am Kronhalsgraben 1",
+    "website": "https://www.baustahl-stralsund.de/",
+    "coords": [
+      13.0615311,
+      54.3018037
+    ]
+  },
+  {
+    "gesellschaft": "Lenz-Stahl Stahl- und Metallhandel e.K.",
+    "plz": "18461",
+    "adresse": "Kastanienweg 1",
+    "website": "http://www.lenz-stahl.de/",
+    "coords": [
+      12.8325861,
+      54.1072735
+    ]
+  },
+  {
+    "gesellschaft": "Hws-stahl GmbH",
+    "plz": "20253",
+    "adresse": "Hoheluftchaussee 153",
+    "website": "http://www.hws-stahl.de/",
+    "coords": [
+      9.968477,
+      53.5850102
+    ]
+  },
+  {
+    "gesellschaft": "BAUHA Baustahlhandels- und -armierungs GmbH",
+    "plz": "21493",
+    "adresse": "Röntgenstraße 3",
+    "website": "https://bauha.de/",
+    "coords": [
+      10.5045222,
+      53.5067162
+    ]
+  },
+  {
+    "gesellschaft": "SHC Stahlhandels-Centrum Stade GmbH & Co. KG",
+    "plz": "21684",
+    "adresse": "Ohle Ring 17",
+    "website": "http://www.shc-stade.de/",
+    "coords": [
+      9.4082939,
+      53.5770956
+    ]
+  },
+  {
+    "gesellschaft": "Heinrich Schütt KG GmbH & Co.",
+    "plz": "22113",
+    "adresse": "Andreas-Meyer-Straße 43 - 45",
+    "website": "http://schuett-stahlservice.de/",
+    "coords": [
+      10.0903315,
+      53.5101588
+    ]
+  },
+  {
+    "gesellschaft": "Salzgitter Mannesmann Stahlhandel GmbH",
+    "plz": "22113",
+    "adresse": "Andreas-Meyer-Straße 15",
+    "website": "http://www.salzgitter-stahlhandel.de/",
+    "coords": [
+      10.090615,
+      53.5083387
+    ]
+  },
+  {
+    "gesellschaft": "KG HANSA BAUSTAHL Handelsgesellschaft mbH & Co.",
+    "plz": "22113",
+    "adresse": "Porgesring 12",
+    "website": "https://www.hansabaustahl.de/#gbp",
+    "coords": [
+      10.0959667,
+      53.5221485
+    ]
+  },
+  {
+    "gesellschaft": "BEWEHRUNGSTECHNIK NK - Nedeljko Komso",
+    "plz": "22119",
+    "adresse": "Stiefmütterchenweg 23B",
+    "website": "http://www.bewehrungstechnik-nk.de/",
+    "coords": [
+      9.8672506,
+      53.5761909
+    ]
+  },
+  {
+    "gesellschaft": "HBB Hanseatischer Betonstahl Biegebetrieb GmbH",
+    "plz": "22869",
+    "adresse": "Osterbrooksweg 51-53",
+    "website": "http://www.hbb-bau.de/",
+    "coords": [
+      9.8343926,
+      53.5912213
+    ]
+  },
+  {
+    "gesellschaft": "Sülzle Stahlpartner GmbH",
+    "plz": "23554",
+    "adresse": "Posener Str. 36",
+    "website": "https://suelzle-stahlpartner.de/standorte/stahlpartner-luebeck/",
+    "coords": [
+      10.7020333,
+      53.5951651
+    ]
+  },
+  {
+    "gesellschaft": "GEORG C. HANSEN GmbH & Co.KG",
+    "plz": "24536",
+    "adresse": "Friedrich-Wöhler-Straße 39",
+    "website": "http://www.georg-c.de/",
+    "coords": [
+      9.9856494,
+      54.1005076
+    ]
+  },
+  {
+    "gesellschaft": "ABF Stahlhandel GmbH",
+    "plz": "24576",
+    "adresse": "Hunenkamp 14",
+    "website": "https://www.abf-betonstahl.de/home",
+    "coords": [
+      9.9054871,
+      53.9301636
+    ]
+  },
+  {
+    "gesellschaft": "Betonstahl- Vertriebsgesellschaft mbH",
+    "plz": "24848",
+    "adresse": "Fabrikstraße 2",
+    "website": "https://www.betonstahlvertrieb.de/",
+    "coords": [
+      9.5265159,
+      54.4190385
+    ]
+  },
+  {
+    "gesellschaft": "JS Betonstahl & Bau GmbH",
+    "plz": "25813",
+    "adresse": "Dagebüller Weg 8",
+    "website": "http://js-betonstahlbau.de/",
+    "coords": [
+      10.1451977,
+      53.5391808
+    ]
+  },
+  {
+    "gesellschaft": "Frieling Stahlhandel Oldenburg",
+    "plz": "26125",
+    "adresse": "Langenweg 16-18",
+    "website": "https://frieling24.de/stahl/",
+    "coords": [
+      8.2302674,
+      53.1847351
+    ]
+  },
+  {
+    "gesellschaft": "Sartorius Stahlhandel GmbH & Co. KG",
+    "plz": "26135",
+    "adresse": "Werrastraße 15",
+    "website": "https://www.sartorius-stahl.de/",
+    "coords": [
+      8.2531812,
+      53.1418461
+    ]
+  },
+  {
+    "gesellschaft": "Schulte GmbH, Benno",
+    "plz": "26214",
+    "adresse": "Johanniterstraße 8",
+    "website": "http://www.benno-schulte.de/",
+    "coords": [
+      13.3998502,
+      52.4956165
+    ]
+  },
+  {
+    "gesellschaft": "Apener Eisen- und Baustoffhandel GmbH",
+    "plz": "26689",
+    "adresse": "Godensholter Str. 28",
+    "website": "http://www.apenereisenhandel.de/",
+    "coords": [
+      7.8148074,
+      53.1990869
+    ]
+  },
+  {
+    "gesellschaft": "Alfons Wittrock Stahl GmbH",
+    "plz": "26892",
+    "adresse": "Dorfstraße 46",
+    "website": "http://www.wittrock.de/",
+    "coords": [
+      7.2352618,
+      52.9712747
+    ]
+  },
+  {
+    "gesellschaft": "THIES + CO. GmbH Stahlhandel",
+    "plz": "27318",
+    "adresse": "Bücker Str. 30-32",
+    "website": "http://www.thies-co.de/",
+    "coords": [
+      9.1342038,
+      52.8012469
+    ]
+  },
+  {
+    "gesellschaft": "Peimann Stahlhandel GmbH & Co. KG",
+    "plz": "27432",
+    "adresse": "Bremervörder Str. 48",
+    "website": "http://www.peimann-stahlhandel.de/",
+    "coords": [
+      9.0891323,
+      53.6269114
+    ]
+  },
+  {
+    "gesellschaft": "Vetter Stahlhandel GmbH",
+    "plz": "27472",
+    "adresse": "Neue Industriestraße 3",
+    "website": "https://vetterstahl.de/",
+    "coords": [
+      8.7085462,
+      53.8507473
+    ]
+  },
+  {
+    "gesellschaft": "Vetter Stahlhandel GmbH",
+    "plz": "27572",
+    "adresse": "Zur Siedewurt 15",
+    "website": "http://www.vetterstahl.de/",
+    "coords": [
+      8.6123081,
+      53.4840684
+    ]
+  },
+  {
+    "gesellschaft": "Salzgitter Mannesmann Stahlhandel GmbH",
+    "plz": "27711",
+    "adresse": "Am Binnenfeld 1",
+    "website": "http://www.salzgitter-mannesmann-stahlhandel.de/",
+    "coords": [
+      8.8119374,
+      53.2360315
+    ]
+  },
+  {
+    "gesellschaft": "BSK Bremer Stahlkontor GmbH",
+    "plz": "28209",
+    "adresse": "Uhlandstraße 32",
+    "website": "http://www.bremer-stahlkontor.de/",
+    "coords": [
+      8.8329799,
+      53.0795076
+    ]
+  },
+  {
+    "gesellschaft": "Hansa Stahl Handel GmbH",
+    "plz": "28215",
+    "adresse": "Friedrichsdorfer Str. 53",
+    "website": "http://www.hansastahl.de/",
+    "coords": [
+      8.6362299,
+      53.1710126
+    ]
+  },
+  {
+    "gesellschaft": "Hoselmann Stahl GmbH Handel & Anarbeitung",
+    "plz": "28217",
+    "adresse": "Rigaer Str. 1",
+    "website": "https://www.hoselmann.de/",
+    "coords": [
+      8.7683516,
+      53.1020087
+    ]
+  },
+  {
+    "gesellschaft": "Bremer Stahl Service GmbH",
+    "plz": "28237",
+    "adresse": "Ludwig-von-Kapff-Straße 5",
+    "website": "http://www.bremerstahlservice.de/",
+    "coords": [
+      8.889638,
+      53.0317002
+    ]
+  },
+  {
+    "gesellschaft": "Karl Meisel Eisen- und Stahlhandel GmbH & Co. KG",
+    "plz": "28816",
+    "adresse": "Gutenbergstraße 15",
+    "website": "https://www.karlmeisel.de/",
+    "coords": [
+      8.7412308,
+      52.8518305
+    ]
+  },
+  {
+    "gesellschaft": "Weser Stahl Handelsgesellschaft mbH & Co.",
+    "plz": "28816",
+    "adresse": "Bergiusstraße 6",
+    "website": "https://www.ws-stahl.de/",
+    "coords": [
+      8.8036072,
+      53.0294624
+    ]
+  },
+  {
+    "gesellschaft": "Eisen Meyer Stahlhandel",
+    "plz": "29614",
+    "adresse": "Gottlieb-Daimler-Straße 7",
+    "website": "http://www.eisen-meyer.de/",
+    "coords": [
+      9.9178395,
+      52.999681
+    ]
+  },
+  {
+    "gesellschaft": "SPH Stahlprodukte GmbH & Co. KG",
+    "plz": "30161",
+    "adresse": "Wedekindstraße 32",
+    "website": "https://www.stahlprodukte.com/",
+    "coords": [
+      9.7484003,
+      52.3856994
+    ]
+  },
+  {
+    "gesellschaft": "Hoselmann Stahl GmbH Handel & Anarbeitung",
+    "plz": "30171",
+    "adresse": "Am Südbahnhof 50",
+    "website": "http://www.hoselmann.de/",
+    "coords": [
+      9.7641008,
+      52.3657344
+    ]
+  },
+  {
+    "gesellschaft": "Linden Stahl",
+    "plz": "30453",
+    "adresse": "Bauweg 13",
+    "website": "http://linden-stahl.de/",
+    "coords": [
+      9.6935873,
+      52.3631318
+    ]
+  },
+  {
+    "gesellschaft": "BSV Betonstahlservice GmbH",
+    "plz": "30629",
+    "adresse": "Kreisstraße 24",
+    "website": "https://www.bsv-betonstahl.de/",
+    "coords": [
+      9.8542692,
+      52.3805935
+    ]
+  },
+  {
+    "gesellschaft": "MB Stahl GmbH",
+    "plz": "30659",
+    "adresse": "Brakestraße 12",
+    "website": "http://www.mb-stahl-gmbh.de/",
+    "coords": [
+      9.8165042,
+      52.3572326
+    ]
+  },
+  {
+    "gesellschaft": "DAUERSTAHL-GESELLSCHAFT Dohle & Co. KG",
+    "plz": "30827",
+    "adresse": "Bremer Str. 82",
+    "website": "https://borntobehard.com/",
+    "coords": [
+      9.5779814,
+      52.4442653
+    ]
+  },
+  {
+    "gesellschaft": "Mb Stahl Gmbh",
+    "plz": "30855",
+    "adresse": "Mercedesstraße 4",
+    "website": "https://www.mb-stahl-gmbh.de/",
+    "coords": [
+      9.7152181,
+      52.44303
+    ]
+  },
+  {
+    "gesellschaft": "Quatro Stahl GmbH",
+    "plz": "30966",
+    "adresse": "Werner-von-Siemens-Straße 5",
+    "website": "https://www.quatro-stahl.de/",
+    "coords": [
+      9.7752713,
+      52.2673901
+    ]
+  },
+  {
+    "gesellschaft": "Mindener Stahlhandel Niederlassung Herford",
+    "plz": "32052",
+    "adresse": "Ernstmeierstraße 12",
+    "website": "https://mindener-stahlhandel.de/",
+    "coords": [
+      8.6910541,
+      52.1026479
+    ]
+  },
+  {
+    "gesellschaft": "Heemeyer Stahlcenter GmbH",
+    "plz": "32257",
+    "adresse": "Albert-Einstein-Straße 2",
+    "website": "http://www.heemeyer-stahl.de/",
+    "coords": [
+      8.6555977,
+      52.1860921
+    ]
+  },
+  {
+    "gesellschaft": "BESTA Eisen- und Stahlhandelsgesellschaft mbH",
+    "plz": "32312",
+    "adresse": "Zur Rauhen Horst 7",
+    "website": "https://www.besta-eisenundstahl.de/",
+    "coords": [
+      8.6097479,
+      52.3310525
+    ]
+  },
+  {
+    "gesellschaft": "KuhlmannWerreSTAHL GmbH & Co. KG",
+    "plz": "32312",
+    "adresse": "Maschweg 8",
+    "website": "https://www.kuhlmann-gruppe.de/",
+    "coords": [
+      8.6103618,
+      52.3253527
+    ]
+  },
+  {
+    "gesellschaft": "Mindener Stahlhandel GmbH",
+    "plz": "32423",
+    "adresse": "Potsdamer Str. 18",
+    "website": "http://www.mindener-stahlhandel.de/",
+    "coords": [
+      8.7050906,
+      52.2370474
+    ]
+  },
+  {
+    "gesellschaft": "Wegener Stahlhandel GmbH & Co. KG",
+    "plz": "33106",
+    "adresse": "Frankfurter Weg 194",
+    "website": "https://www.wegener.biz/",
+    "coords": [
+      8.7295459,
+      51.702572
+    ]
+  },
+  {
+    "gesellschaft": "ZI Betonstahlhandel",
+    "plz": "33609",
+    "adresse": "Bunsenstraße 9",
+    "website": "https://www.zi-betonstahlhandel.de/",
+    "coords": [
+      8.7237373,
+      52.0913793
+    ]
+  },
+  {
+    "gesellschaft": "Bielefelder Stahlkontor GmbH",
+    "plz": "33739",
+    "adresse": "Im Drewer Esch 28",
+    "website": "http://www.bielefelder-stahlkontor.de/",
+    "coords": [
+      8.5170361,
+      52.0582002
+    ]
+  },
+  {
+    "gesellschaft": "Betonstahl Bosnyak",
+    "plz": "34123",
+    "adresse": "Triftweg 150B",
+    "website": "http://www.betonstahl-bosnyak.de/",
+    "coords": [
+      9.5504615,
+      51.3423142
+    ]
+  },
+  {
+    "gesellschaft": "Greger Betonstahlhandel GmbH",
+    "plz": "34123",
+    "adresse": "Lilienthalstraße 7B",
+    "website": "https://greger-betonstahlhandel.de/",
+    "coords": [
+      9.5222199,
+      51.3002729
+    ]
+  },
+  {
+    "gesellschaft": "Stahl-Center Baunatal GmbH",
+    "plz": "34225",
+    "adresse": "Salzgitter Str. 32",
+    "website": "http://www.salzgitter-mannesmann-stahlhandel.com/",
+    "coords": [
+      9.446074,
+      51.2496538
+    ]
+  },
+  {
+    "gesellschaft": "R.M. Stahlhandel GmbH",
+    "plz": "35641",
+    "adresse": "Zum Weißen Stein 1",
+    "website": "http://www.rm-stahl.de/",
+    "coords": [
+      8.6105241,
+      50.4550547
+    ]
+  },
+  {
+    "gesellschaft": "Eisenbiegerei Schmitt GmbH",
+    "plz": "36041",
+    "adresse": "Donaustraße 5",
+    "website": "https://eisenbiegerei-schmitt.de/",
+    "coords": [
+      9.684726,
+      50.5399035
+    ]
+  },
+  {
+    "gesellschaft": "LBZ Leos Betonstahl & Zubehör",
+    "plz": "36124",
+    "adresse": "Leipziger Str. 51",
+    "website": "https://lbz-shop.de/",
+    "coords": [
+      9.681465,
+      50.5610174
+    ]
+  },
+  {
+    "gesellschaft": "Salzunger Stahlkontor",
+    "plz": "36433",
+    "adresse": "Unter dem Taubertsberg 3",
+    "website": "http://www.salzunger-stahlkontor.de/",
+    "coords": [
+      10.196816,
+      50.7821718
+    ]
+  },
+  {
+    "gesellschaft": "Stahlhandel I. Schudera GmbH",
+    "plz": "36433",
+    "adresse": "Hinterm Dorf 7",
+    "website": "http://www.schuderastahl.de/",
+    "coords": [
+      10.2895326,
+      50.8379479
+    ]
+  },
+  {
+    "gesellschaft": "HUSE & PHILIPP GmbH & Co. KG",
+    "plz": "38110",
+    "adresse": "Waller See 100",
+    "website": "https://hp-stahl.de/braunschweig/",
+    "coords": [
+      10.4851772,
+      52.3235373
+    ]
+  },
+  {
+    "gesellschaft": "Goslarer Stahlhandel GmbH",
+    "plz": "38644",
+    "adresse": "Dörntener Str. 1",
+    "website": "https://goslarer-stahlhandel.de/",
+    "coords": [
+      10.4143604,
+      51.9259405
+    ]
+  },
+  {
+    "gesellschaft": "PH Bewehrungstechnik GmbH",
+    "plz": "39126",
+    "adresse": "Saalestraße 35",
+    "website": "https://hp-stahl.de/dienstleistungen/bewehrungstechnik/",
+    "coords": [
+      11.6700371,
+      52.1734459
+    ]
+  },
+  {
+    "gesellschaft": "HUSE & PHILIPP GmbH & Co. KG",
+    "plz": "39126",
+    "adresse": "Saalestraße 35",
+    "website": "https://hp-stahl.de/magdeburg/",
+    "coords": [
+      11.6700371,
+      52.1734459
+    ]
+  },
+  {
+    "gesellschaft": "ZN Betonstahlbearbeitung GmbH",
+    "plz": "39261",
+    "adresse": "Papenbreite 5",
+    "website": "http://www.zn-betonstahl.de/",
+    "coords": [
+      12.1016696,
+      51.9511128
+    ]
+  },
+  {
+    "gesellschaft": "European Staal Staßfurt GmbH & Co. KG",
+    "plz": "39418",
+    "adresse": "An d. Liethe 6",
+    "website": "https://www.europeanstaal.de/",
+    "coords": [
+      11.5946614,
+      51.8426649
+    ]
+  },
+  {
+    "gesellschaft": "SBS Stahl- und Blechbearbeitung Staßfurt GmbH",
+    "plz": "39418",
+    "adresse": "Berlepschstraße 12",
+    "website": "https://www.sbs-stahl.de/",
+    "coords": [
+      11.5998407,
+      51.8587501
+    ]
+  },
+  {
+    "gesellschaft": "Josef Gottschalk GmbH & Co.",
+    "plz": "40233",
+    "adresse": "Ronsdorfer Str. 58",
+    "website": "https://josef-gottschalk.de/",
+    "coords": [
+      6.8225897,
+      51.220694
+    ]
+  },
+  {
+    "gesellschaft": "Atra Stahlhandel Gmbh & Co. Kg",
+    "plz": "40474",
+    "adresse": "Wimenweg 6",
+    "website": "https://www.atra-stahl.de/",
+    "coords": [
+      6.2777437,
+      51.2745537
+    ]
+  },
+  {
+    "gesellschaft": "BeTraCo Stahl Vertriebs GmbH",
+    "plz": "40699",
+    "adresse": "Otto-Hahn-Straße 33",
+    "website": "http://www.betraco.de/",
+    "coords": [
+      6.8086253,
+      51.1797014
+    ]
+  },
+  {
+    "gesellschaft": "BMT Stahlhandel GmbH",
+    "plz": "40721",
+    "adresse": "Walder Str. 325",
+    "website": "https://bmt-stahlhandel.de/",
+    "coords": [
+      6.9743163,
+      51.167963
+    ]
+  },
+  {
+    "gesellschaft": "Peter Post GmbH & Co. KG",
+    "plz": "40764",
+    "adresse": "Poststraße 53",
+    "website": "http://www.peterpost.de/",
+    "coords": [
+      6.9405213,
+      51.1037078
+    ]
+  },
+  {
+    "gesellschaft": "PKS GmbH, Peter Kördell Stahlhandel",
+    "plz": "40822",
+    "adresse": "Schöllersheider Str. 10",
+    "website": "https://pkstahl.de/kontakt/",
+    "coords": [
+      7.0111306,
+      51.2480994
+    ]
+  },
+  {
+    "gesellschaft": "W. Schulte Stahl GmbH",
+    "plz": "40880",
+    "adresse": "Borsigstraße 4",
+    "website": "https://schulte-stahl.de/",
+    "coords": [
+      6.8328008,
+      51.3027767
+    ]
+  },
+  {
+    "gesellschaft": "B & G Stahlhandel GmbH",
+    "plz": "41238",
+    "adresse": "Römerstraße 59",
+    "website": "http://www.bg-stahlhandel.de/",
+    "coords": [
+      6.4571419,
+      51.1634692
+    ]
+  },
+  {
+    "gesellschaft": "Vogel Stahl",
+    "plz": "41372",
+    "adresse": "Dr.-Lindemann-Straße 50",
+    "website": "http://vogelstahl.eu/",
+    "coords": [
+      6.2219115,
+      51.1964131
+    ]
+  },
+  {
+    "gesellschaft": "VOSTA-STAHLHANDEL GmbH",
+    "plz": "41372",
+    "adresse": "Borner Str. 53",
+    "website": "https://vosta.de/",
+    "coords": [
+      6.206639,
+      51.2307839
+    ]
+  },
+  {
+    "gesellschaft": "Naumann Stahl Gmbh & Co. KG",
+    "plz": "41460",
+    "adresse": "Bataverstraße 90",
+    "website": "http://www.naumann-stahl.de/",
+    "coords": [
+      6.6890373,
+      51.2312141
+    ]
+  },
+  {
+    "gesellschaft": "Breuer Stahlhandel GmbH",
+    "plz": "41516",
+    "adresse": "Glehner Heide 14",
+    "website": "http://www.breuer-stahlhandel.de/",
+    "coords": [
+      6.5870953,
+      51.173404
+    ]
+  },
+  {
+    "gesellschaft": "Karsten Stahlhandel GmbH",
+    "plz": "41540",
+    "adresse": "Alfred-Nobel-Straße 18",
+    "website": "https://www.karstenstahl.de/",
+    "coords": [
+      6.6193071,
+      51.0859502
+    ]
+  },
+  {
+    "gesellschaft": "Brühler Stahlhandel GmbH",
+    "plz": "41541",
+    "adresse": "Am Wahler Berg 7",
+    "website": "http://www.bruehler-stahlhandel.de/",
+    "coords": [
+      6.8081191,
+      51.1278737
+    ]
+  },
+  {
+    "gesellschaft": "FB Stahlhandel GmbH",
+    "plz": "44143",
+    "adresse": "Leineweberstraße 25",
+    "website": "https://fb-stahlhandel.com/",
+    "coords": [
+      7.4612134,
+      51.4476059
+    ]
+  },
+  {
+    "gesellschaft": "Leib Stahl GmbH & Co. KG",
+    "plz": "44147",
+    "adresse": "Hartmannstraße 5",
+    "website": "http://www.leibstahl.de/",
+    "coords": [
+      7.4426028,
+      51.5334979
+    ]
+  },
+  {
+    "gesellschaft": "HBL-Gruppe",
+    "plz": "44149",
+    "adresse": "Freie-Vogel-Straße 391",
+    "website": "http://www.hbl.de/",
+    "coords": [
+      7.5319607,
+      51.5062205
+    ]
+  },
+  {
+    "gesellschaft": "WesterwaldStahl",
+    "plz": "44625",
+    "adresse": "Birkenring 35",
+    "website": "https://westerwaldstahl.de/",
+    "coords": [
+      7.4081673,
+      50.4167206
+    ]
+  },
+  {
+    "gesellschaft": "BEB Stahlhandel GmbH & Co. KG",
+    "plz": "44805",
+    "adresse": "Josef-Baumann-Straße 29A",
+    "website": "http://www.beb-stahl.de/",
+    "coords": [
+      7.2767593,
+      51.5110975
+    ]
+  },
+  {
+    "gesellschaft": "PSE Stahlhandel GmbH",
+    "plz": "45136",
+    "adresse": "Schnabelstraße 6",
+    "website": "https://pse-stahl.de/",
+    "coords": [
+      7.0427199,
+      51.427582
+    ]
+  },
+  {
+    "gesellschaft": "Niemeyer Stahlhandel GmbH & Co. KG Lothar",
+    "plz": "45327",
+    "adresse": "Johanniskirchstraße 96",
+    "website": "https://www.lnsstahlhandel.de/impressum_agb.htm",
+    "coords": [
+      6.9982984,
+      51.499066
+    ]
+  },
+  {
+    "gesellschaft": "ArcelorMittal Stahlhandel GmbH",
+    "plz": "45356",
+    "adresse": "Hafenstraße 301-304",
+    "website": "https://e-steel.arcelormittal.com/DE/de/store-finder/details/Essen/DE02",
+    "coords": [
+      6.9786323,
+      51.4804054
+    ]
+  },
+  {
+    "gesellschaft": "ATG Deutschland GmbH",
+    "plz": "45478",
+    "adresse": "Rheinstraße 110-112",
+    "website": "http://atg-steel.com/",
+    "coords": [
+      6.8453134,
+      51.4376282
+    ]
+  },
+  {
+    "gesellschaft": "ATG Deutschland GmbH",
+    "plz": "45478",
+    "adresse": "Tonnenhofstraße 10a",
+    "website": "http://www.atg-steel.com/",
+    "coords": [
+      11.4494192,
+      53.9069967
+    ]
+  },
+  {
+    "gesellschaft": "ATG Deutschland Gmbh",
+    "plz": "45478",
+    "adresse": "Hainbuchenring 1",
+    "website": "https://atg-steel.com/",
+    "coords": [
+      8.6289534,
+      52.7954114
+    ]
+  },
+  {
+    "gesellschaft": "STAGRO Stahlhandel GmbH",
+    "plz": "45525",
+    "adresse": "Bahnhofstraße 79",
+    "website": "http://www.stagro-stahlhandel.de/",
+    "coords": [
+      7.169576,
+      51.4009536
+    ]
+  },
+  {
+    "gesellschaft": "RUHR STAHL HANDEL",
+    "plz": "45721",
+    "adresse": "An d. Ziegelei 34",
+    "website": "https://www.ruhrstahl.de/index.php/kontakt",
+    "coords": [
+      13.65007,
+      50.9660362
+    ]
+  },
+  {
+    "gesellschaft": "European Staal Marl GmbH & Co. KG",
+    "plz": "45768",
+    "adresse": "Schmielenfeldstraße 50",
+    "website": "https://www.europeanstaal.de/",
+    "coords": [
+      7.1639613,
+      51.6730195
+    ]
+  },
+  {
+    "gesellschaft": "BEPRO Stahlhandel Blech und Profilstahl GmbH & Co.KG",
+    "plz": "45881",
+    "adresse": "Ahlmannshof 52",
+    "website": "http://www.bepro.de/",
+    "coords": [
+      7.1175888,
+      51.5272844
+    ]
+  },
+  {
+    "gesellschaft": "Heinrich Schütt Stahl KG GmbH & Co.",
+    "plz": "45881",
+    "adresse": "Hafenstraße 10",
+    "website": "http://www.heinrich-schuett.de/",
+    "coords": [
+      7.0674546,
+      51.528666
+    ]
+  },
+  {
+    "gesellschaft": "Hakenholt Stahlhandel GmbH",
+    "plz": "45881",
+    "adresse": "Lockhofstraße 8A",
+    "website": "https://www.hakenholt-stahlhandel.com/",
+    "coords": [
+      7.0761581,
+      51.5233448
+    ]
+  },
+  {
+    "gesellschaft": "MS Betonstahl UG (haftungsbeschränkt)",
+    "plz": "45899",
+    "adresse": "Auf dem Schollbruch 32a",
+    "website": "http://www.schwarz-betonstahl.com/",
+    "coords": [
+      7.0206668,
+      51.5400075
+    ]
+  },
+  {
+    "gesellschaft": "Heitmann Stahlhandel GmbH & Co. KG",
+    "plz": "46047",
+    "adresse": "Lindnerstraße 86",
+    "website": "https://www.heitmann-stahl.de/standorte/oberhausen/",
+    "coords": [
+      6.8474587,
+      51.4923616
+    ]
+  },
+  {
+    "gesellschaft": "Heitmann Stahlhandel GmbH & Co.",
+    "plz": "46049",
+    "adresse": "Hansastraße 22",
+    "website": "https://www.heitmann-stahl.de/",
+    "coords": [
+      6.8451247,
+      51.4301935
+    ]
+  },
+  {
+    "gesellschaft": "Stahlhandel Vogt GmbH GmbH & Co KG",
+    "plz": "46244",
+    "adresse": "Im Pinntal 52",
+    "website": "http://www.vogtstahl.de/",
+    "coords": [
+      6.9231022,
+      51.6111859
+    ]
+  },
+  {
+    "gesellschaft": "GS Stahlhandel GmbH",
+    "plz": "46244",
+    "adresse": "Hauptstraße 1",
+    "website": "https://gs-stahl.com/",
+    "coords": [
+      6.9161652,
+      51.6034167
+    ]
+  },
+  {
+    "gesellschaft": "Fenne Stahl GmbH",
+    "plz": "46282",
+    "adresse": "Nikolaus-Otto-Straße 8",
+    "website": "https://www.fenne.de/",
+    "coords": [
+      7.0136157,
+      51.6612917
+    ]
+  },
+  {
+    "gesellschaft": "KroppStahl GmbH",
+    "plz": "46284",
+    "adresse": "Barbarastraße 48",
+    "website": "https://www.kroppstahl.com/",
+    "coords": [
+      6.9755237,
+      51.6539548
+    ]
+  },
+  {
+    "gesellschaft": "Elskes Baustahl GmbH & Co. KG",
+    "plz": "46395",
+    "adresse": "Loikumer Weg 1",
+    "website": "http://www.elskes-baustahl.de/",
+    "coords": [
+      6.6027494,
+      51.819623
+    ]
+  },
+  {
+    "gesellschaft": "ProStahl GmbH",
+    "plz": "47059",
+    "adresse": "Ruhrdeich 20",
+    "website": "http://pro-stahl.de/de/index.html",
+    "coords": [
+      6.7487927,
+      51.4436616
+    ]
+  },
+  {
+    "gesellschaft": "Stahlhandel Scholzen GmbH",
+    "plz": "47138",
+    "adresse": "Am Inzerfeld 44",
+    "website": "http://www.fsc-service.de/",
+    "coords": [
+      6.7966311,
+      51.4898206
+    ]
+  },
+  {
+    "gesellschaft": "GS Stahlhandel GmbH",
+    "plz": "47198",
+    "adresse": "Bruchweg 2",
+    "website": "https://www.gs-stahl.com/",
+    "coords": [
+      6.4758415,
+      51.46698
+    ]
+  },
+  {
+    "gesellschaft": "Hoberg & Driesch Stahlrohr GmbH",
+    "plz": "47229",
+    "adresse": "Am Blumenkampshof 67",
+    "website": "https://www.stahlrohr.eu/",
+    "coords": [
+      6.7275863,
+      51.4427115
+    ]
+  },
+  {
+    "gesellschaft": "Eickvonder Stahlhandel GmbH",
+    "plz": "47441",
+    "adresse": "Weyerstraße 11",
+    "website": "http://www.eickvonder.de/",
+    "coords": [
+      6.6192997,
+      51.4536674
+    ]
+  },
+  {
+    "gesellschaft": "Rohr- und Stahlhandel Jung & Co. GmbH",
+    "plz": "47475",
+    "adresse": "Kruppstraße 24",
+    "website": "https://www.rohrhandel-jung.de/",
+    "coords": [
+      6.5521213,
+      51.5132175
+    ]
+  },
+  {
+    "gesellschaft": "Breuer Stahlhandel GmbH",
+    "plz": "47533",
+    "adresse": "Reuterstraße 218",
+    "website": "http://www.breuer-stahlhandel.de/",
+    "coords": [
+      6.1863768,
+      51.6900651
+    ]
+  },
+  {
+    "gesellschaft": "BNK Stahl Geldern",
+    "plz": "47608",
+    "adresse": "Marktweg 40 b",
+    "website": "https://www.bnk-stahl-geldern.de/kontakt/",
+    "coords": [
+      6.3457537,
+      51.5208584
+    ]
+  },
+  {
+    "gesellschaft": "Gelderner Stahlhandel GmbH",
+    "plz": "47661",
+    "adresse": "Issumer Tor 45",
+    "website": "https://www.stahlhandel.de/firmen/geldern_gelderner_stahlhandel_gmbh.htm",
+    "coords": [
+      6.3292559,
+      51.5194628
+    ]
+  },
+  {
+    "gesellschaft": "Thiemann Stahl GmbH",
+    "plz": "47809",
+    "adresse": "Carl-Sonnenschein-Straße 98",
+    "website": "http://thiemann-stahl.de/",
+    "coords": [
+      6.6433792,
+      51.345336
+    ]
+  },
+  {
+    "gesellschaft": "Franz Huisgen | Stahl - Rohre - Edelstahl",
+    "plz": "47829",
+    "adresse": "Bahnhofstraße 51",
+    "website": "https://huisgen.de/",
+    "coords": [
+      6.6481109,
+      51.3585296
+    ]
+  },
+  {
+    "gesellschaft": "Stahlshop",
+    "plz": "47829",
+    "adresse": "Bahnhofstraße 51",
+    "website": "https://stahlshop.de/",
+    "coords": [
+      6.6481109,
+      51.3585296
+    ]
+  },
+  {
+    "gesellschaft": "Heitmann Stahlhandel GmbH & Co. KG (Münster)",
+    "plz": "48155",
+    "adresse": "Loddenheide 44",
+    "website": "https://www.heitmann-stahl.de/",
+    "coords": [
+      7.6421651,
+      51.9321021
+    ]
+  },
+  {
+    "gesellschaft": "European Staal Münster GmbH & Co. KG",
+    "plz": "48161",
+    "adresse": "Im Derdel 12",
+    "website": "https://www.europeanstaal.de/",
+    "coords": [
+      7.5515449,
+      51.9506871
+    ]
+  },
+  {
+    "gesellschaft": "European Staal Warendorf GmbH & Co. KG",
+    "plz": "48231",
+    "adresse": "Splieterstraße 37",
+    "website": "https://www.europeanstaal.de/",
+    "coords": [
+      8.0028364,
+      51.9452983
+    ]
+  },
+  {
+    "gesellschaft": "Jücker GmbH & Co. Stahlhandels KG",
+    "plz": "48249",
+    "adresse": "Dammweg 4 - 12",
+    "website": "http://www.stahlhandel-juecker.de/",
+    "coords": [
+      7.2720471,
+      51.8212637
+    ]
+  },
+  {
+    "gesellschaft": "HBL Stahlbearbeitungscenter GmbH & Co. KG",
+    "plz": "48431",
+    "adresse": "Ohmstraße 16",
+    "website": "https://www.hbl-stahl.de/standorte/hbl-stahlbearbeitungscenter-rheine",
+    "coords": [
+      7.4543754,
+      52.3186735
+    ]
+  },
+  {
+    "gesellschaft": "EISEN + BAUSTAHL, Hubert Pohlmann GmbH & Co.KG",
+    "plz": "48624",
+    "adresse": "Siemensweg 10",
+    "website": "http://www.stahl-pohlmann.info/",
+    "coords": [
+      7.3178126,
+      52.2186299
+    ]
+  },
+  {
+    "gesellschaft": "Möllers Stahlhandel GmbH",
+    "plz": "48703",
+    "adresse": "Boschstraße 22",
+    "website": "http://www.moellers-stahl.de/",
+    "coords": [
+      6.8966387,
+      51.9831628
+    ]
+  },
+  {
+    "gesellschaft": "Frye & Schröder Stahlhandel GmbH & Co. KG",
+    "plz": "49090",
+    "adresse": "Kiefernweg 13 -19",
+    "website": "https://www.frye-schroeder.de/",
+    "coords": [
+      8.0173659,
+      52.2963238
+    ]
+  },
+  {
+    "gesellschaft": "Stahlhandel Hahn KG",
+    "plz": "49196",
+    "adresse": "In d. Garte 5 - 9",
+    "website": "http://www.stahlhandel-hahn.de/",
+    "coords": [
+      8.0835438,
+      52.0987041
+    ]
+  },
+  {
+    "gesellschaft": "Frieling Stahlhandel Lohne",
+    "plz": "49393",
+    "adresse": "Gewerbering 28",
+    "website": "https://frieling24.de/stahl/",
+    "coords": [
+      8.2083015,
+      52.6602325
+    ]
+  },
+  {
+    "gesellschaft": "Richter Stahlhandel GmbH & Co. KG",
+    "plz": "49762",
+    "adresse": "Von-Arenberg-Straße 10",
+    "website": "https://www.richter-stahl.de/",
+    "coords": [
+      7.3445288,
+      52.8693131
+    ]
+  },
+  {
+    "gesellschaft": "Kraus Stahlhandel GmbH",
+    "plz": "50226",
+    "adresse": "Industriering 54",
+    "website": "https://www.ksh-koeln.de/",
+    "coords": [
+      6.3209309,
+      51.2330806
+    ]
+  },
+  {
+    "gesellschaft": "Brühler Stahlhandel GmbH",
+    "plz": "50321",
+    "adresse": "Am Volkspark 17",
+    "website": "http://www.bruehler-stahlhandel.de/",
+    "coords": [
+      6.9065116,
+      50.8402
+    ]
+  },
+  {
+    "gesellschaft": "ArcelorMittal Stahlhandel GmbH",
+    "plz": "50670",
+    "adresse": "Gereonsdriesch 2-4",
+    "website": "https://e-steel.arcelormittal.com/DE/de/",
+    "coords": [
+      6.9467208,
+      50.9423655
+    ]
+  },
+  {
+    "gesellschaft": "RSH Rheinischer Stahlhandel GmbH",
+    "plz": "51381",
+    "adresse": "Porschestraße 12",
+    "website": "https://www.rshstahl.de/",
+    "coords": [
+      7.0214575,
+      51.0570654
+    ]
+  },
+  {
+    "gesellschaft": "Jacob Kierdorf GmbH",
+    "plz": "51469",
+    "adresse": "An d. Zinkhütte 9",
+    "website": "http://www.stahl-kierdorf.de/",
+    "coords": [
+      7.1284462,
+      50.9757458
+    ]
+  },
+  {
+    "gesellschaft": "Kerschgens Werkstoffe & Mehr GmbH",
+    "plz": "52222",
+    "adresse": "Steinbachstraße 38-40",
+    "website": "http://www.kerschgens.de/",
+    "coords": [
+      6.2039338,
+      50.7910485
+    ]
+  },
+  {
+    "gesellschaft": "Willy Sieger Eisengroßhandel GmbH",
+    "plz": "52457",
+    "adresse": "Niedermerzer Str. 8",
+    "website": "https://stahlhandelsieger.de/",
+    "coords": [
+      6.2789821,
+      50.8921269
+    ]
+  },
+  {
+    "gesellschaft": "Bonn-Stahl GmbH",
+    "plz": "53229",
+    "adresse": "Pützchens Ch 190",
+    "website": "https://www.bonn-stahl.de/",
+    "coords": [
+      7.1491754,
+      50.7422691
+    ]
+  },
+  {
+    "gesellschaft": "M Schulte Söhne GmbH & Co. KG",
+    "plz": "53545",
+    "adresse": "Am Bahndamm 4",
+    "website": "https://www.mschultesoehne-shop.de/",
+    "coords": [
+      7.3139358,
+      50.6127557
+    ]
+  },
+  {
+    "gesellschaft": "Thomas Eisenhandel GmbH",
+    "plz": "53879",
+    "adresse": "Carl-Benz-Straße 12",
+    "website": "https://www.thomas-eisen.de/",
+    "coords": [
+      6.8089033,
+      50.6514879
+    ]
+  },
+  {
+    "gesellschaft": "Stahlhandel Mechernich GmbH & Co KG",
+    "plz": "53894",
+    "adresse": "Zum Lindenbusch 7",
+    "website": "http://www.stahlhandel-mechernich.de/",
+    "coords": [
+      6.7091462,
+      50.6412248
+    ]
+  },
+  {
+    "gesellschaft": "SHW Baustoffe & Stahl GmbH",
+    "plz": "54294",
+    "adresse": "Diedenhofener Str. 1/o-p",
+    "website": "https://shw-baustoffe.de/",
+    "coords": [
+      6.5904299,
+      49.7394575
+    ]
+  },
+  {
+    "gesellschaft": "Stahlhandel / Biegebetrieb Zenner",
+    "plz": "54439",
+    "adresse": "Industriestraße 10",
+    "website": "https://www.zenner-saarburg.de/",
+    "coords": [
+      6.5802594,
+      49.6088181
+    ]
+  },
+  {
+    "gesellschaft": "Huf Stahlhandel GmbH",
+    "plz": "55218",
+    "adresse": "Am Langenberg 30",
+    "website": "http://huf-stahlhandel.com/",
+    "coords": [
+      8.0654477,
+      49.9833281
+    ]
+  },
+  {
+    "gesellschaft": "E+B Stahlhandel GmbH & Co. KG",
+    "plz": "56170",
+    "adresse": "u. Rheinau 14",
+    "website": "https://www.eub-stahlhandel.de/",
+    "coords": [
+      7.5679514,
+      50.4189816
+    ]
+  },
+  {
+    "gesellschaft": "Sülzle Stahlpartner GmbH",
+    "plz": "56235",
+    "adresse": "Eisensteinstraße 3",
+    "website": "https://suelzle-stahlpartner.de/standorte/ransbach-baumbach/",
+    "coords": [
+      7.7531239,
+      50.4744424
+    ]
+  },
+  {
+    "gesellschaft": "i&M Bauzentrum Hieronimi",
+    "plz": "56812",
+    "adresse": "Industriering 24",
+    "website": "https://www.hieronimi.de/sortiment/stahl/",
+    "coords": [
+      7.1491441,
+      50.1299141
+    ]
+  },
+  {
+    "gesellschaft": "ArcelorMittal Stahlhandel GmbH",
+    "plz": "57462",
+    "adresse": "In d. Trift 45",
+    "website": "https://e-steel.arcelormittal.com/DE/de/store-finder/details/Olpe/DE12",
+    "coords": [
+      8.1683623,
+      49.4678057
+    ]
+  },
+  {
+    "gesellschaft": "WesterwaldStahl",
+    "plz": "57610",
+    "adresse": "Kumpstraße 54",
+    "website": "https://westerwaldstahl.de/",
+    "coords": [
+      7.6445372,
+      50.6926812
+    ]
+  },
+  {
+    "gesellschaft": "RSH Recber Stahlhandel GmbH",
+    "plz": "58091",
+    "adresse": "Schultenstraße 1",
+    "website": "http://www.rsh-hagen.de/",
+    "coords": [
+      7.4807162,
+      51.4119219
+    ]
+  },
+  {
+    "gesellschaft": "Stahl Markt Engelmann GmbH",
+    "plz": "58093",
+    "adresse": "Schwerter Str. 8-12",
+    "website": "http://www.stahl-markt.de/",
+    "coords": [
+      7.4960093,
+      51.4047223
+    ]
+  },
+  {
+    "gesellschaft": "Topp Stahl GmbH Stahlgrosshandel",
+    "plz": "58099",
+    "adresse": "Batheyer Str. 123",
+    "website": "https://www.topp-stahl.de/",
+    "coords": [
+      7.4779583,
+      51.4135189
+    ]
+  },
+  {
+    "gesellschaft": "Ruhrtaler Stahlgesellschaft m.b.H.",
+    "plz": "58239",
+    "adresse": "Adolph-Kolping-Straße 13",
+    "website": "https://www.ruhrtalerstahlgesellschaft.de/",
+    "coords": [
+      7.5397377,
+      51.4219681
+    ]
+  },
+  {
+    "gesellschaft": "Gevelsberger Stahlhandel GmbH",
+    "plz": "58285",
+    "adresse": "Rocholzallee 25",
+    "website": "https://www.stahlhandel-gevelsberg.de/de-de/",
+    "coords": [
+      7.3649505,
+      51.330415
+    ]
+  },
+  {
+    "gesellschaft": "Melzer Stahlhandel KG",
+    "plz": "58332",
+    "adresse": "Göckinghofstraße 30",
+    "website": "https://www.melzer-stahlhandel.de/",
+    "coords": [
+      7.2829473,
+      51.2771403
+    ]
+  },
+  {
+    "gesellschaft": "C & P Stahl Service und Handel GmbH",
+    "plz": "58454",
+    "adresse": "Friedrich-Ebert-Straße 93E",
+    "website": "https://cpstahl.de/",
+    "coords": [
+      7.3994841,
+      51.4533486
+    ]
+  },
+  {
+    "gesellschaft": "Bernhard Dahlmann GmbH",
+    "plz": "58706",
+    "adresse": "Holzener Str. 42",
+    "website": "http://dahlmann-gmbh.de/",
+    "coords": [
+      7.7575436,
+      51.4447628
+    ]
+  },
+  {
+    "gesellschaft": "Grüber Eisenhandel GmbH",
+    "plz": "58791",
+    "adresse": "Bannewerthstraße 34",
+    "website": "http://www.grueber-stahlhandel.com/",
+    "coords": [
+      7.879224,
+      51.2332026
+    ]
+  },
+  {
+    "gesellschaft": "DD Stahlhandel GmbH",
+    "plz": "58840",
+    "adresse": "Sundheller Str. 58",
+    "website": "http://dd-stahlhandel.de/",
+    "coords": [
+      7.8668476,
+      51.2004072
+    ]
+  },
+  {
+    "gesellschaft": "Westfälische Stahlgesellschaft F.W. Krummenerl GmbH & Co. KG",
+    "plz": "58840",
+    "adresse": "Herscheider Str. 93",
+    "website": "https://www.ws-stahl.de/kontakt/westfaelische-stahlgesellschaft-plettenberg/",
+    "coords": [
+      7.8569484,
+      51.2020393
+    ]
+  },
+  {
+    "gesellschaft": "BSS Bewehrungsstahl Service GmbH",
+    "plz": "59063",
+    "adresse": "Östingstraße 41b",
+    "website": "http://www.bewehrungsstahl-service.de/",
+    "coords": [
+      7.8092605,
+      51.6678873
+    ]
+  },
+  {
+    "gesellschaft": "Karl Tölle Baustoffe und Stahl",
+    "plz": "59067",
+    "adresse": "Hafenstraße 9",
+    "website": "https://www.toelle-hamm.de/",
+    "coords": [
+      7.8052107,
+      51.6810287
+    ]
+  },
+  {
+    "gesellschaft": "Heemeyer Stahlcenter GmbH - NL Hamm",
+    "plz": "59069",
+    "adresse": "Oberallener Weg 32",
+    "website": "https://www.heemeyer-stahl.de/",
+    "coords": [
+      7.8628621,
+      51.6141417
+    ]
+  },
+  {
+    "gesellschaft": "European Staal Hamm GmbH & Co.KG",
+    "plz": "59075",
+    "adresse": "Auf den Kämpen 20",
+    "website": "https://www.europeanstaal.de/",
+    "coords": [
+      7.9533915,
+      51.6880581
+    ]
+  },
+  {
+    "gesellschaft": "Lotter Betonstahl",
+    "plz": "60327",
+    "adresse": "Gutleutstraße 365",
+    "website": "http://lotter.de/",
+    "coords": [
+      8.6370831,
+      50.0933266
+    ]
+  },
+  {
+    "gesellschaft": "Erich Beissert Stahlhandel GmbH",
+    "plz": "60386",
+    "adresse": "Orber Str. 21",
+    "website": "https://www.beissert-stahlhandel.de/",
+    "coords": [
+      8.7501826,
+      50.1288545
+    ]
+  },
+  {
+    "gesellschaft": "B + E Bau- und Edelstahl Werkshandels GmbH",
+    "plz": "60489",
+    "adresse": "Breidensteiner Weg 80",
+    "website": "http://www.bau-und-edelstahl.de/",
+    "coords": [
+      8.601209,
+      50.1174582
+    ]
+  },
+  {
+    "gesellschaft": "Gebr. Lotter KG (Verkaufsbüro Kummetat)",
+    "plz": "60489",
+    "adresse": "Rödelheimer Landstraße 75",
+    "website": "http://www.kummetat.de/",
+    "coords": [
+      8.6223621,
+      50.1203482
+    ]
+  },
+  {
+    "gesellschaft": "Throm Baustahl GmbH",
+    "plz": "61118",
+    "adresse": "Weitzesweg 3-5",
+    "website": "https://www.throm-baustahl.com/",
+    "coords": [
+      8.7500398,
+      50.2086943
+    ]
+  },
+  {
+    "gesellschaft": "MT-Betonstahl GmbH",
+    "plz": "63457",
+    "adresse": "August-Bebel-Straße 21",
+    "website": "http://www.mt-betonstahl.de/",
+    "coords": [
+      8.9816739,
+      50.1708227
+    ]
+  },
+  {
+    "gesellschaft": "Throm GmbH",
+    "plz": "63667",
+    "adresse": "Industriestraße 28",
+    "website": "http://www.throm-online.com/",
+    "coords": [
+      8.970868,
+      50.273923
+    ]
+  },
+  {
+    "gesellschaft": "SV Stahlhandel Franken GmbH",
+    "plz": "63931",
+    "adresse": "Birkenbüschlein 1",
+    "website": "https://www.stahlhandel-franken.de/",
+    "coords": [
+      9.3895418,
+      49.5919
+    ]
+  },
+  {
+    "gesellschaft": "STABA Stahl und Bauelemente Handels GmbH",
+    "plz": "64720",
+    "adresse": "Zeller Gewerbezentrum 16",
+    "website": "http://www.staba-stahl.de/",
+    "coords": [
+      8.9944944,
+      49.7273889
+    ]
+  },
+  {
+    "gesellschaft": "BK-Stahlhandel GmbH",
+    "plz": "65205",
+    "adresse": "Schoßbergstraße 18",
+    "website": "http://www.bk-stahl.de/",
+    "coords": [
+      8.2066154,
+      50.0464803
+    ]
+  },
+  {
+    "gesellschaft": "S+P Stahlhandel GmbH",
+    "plz": "65321",
+    "adresse": "Gladbacher Str. 6",
+    "website": "http://www.baustahl24.com/",
+    "coords": [
+      8.0428908,
+      50.0826749
+    ]
+  },
+  {
+    "gesellschaft": "MW Baustahl GmbH",
+    "plz": "65451",
+    "adresse": "Industriestraße 9-10",
+    "website": "http://www.mw-baustahl.de/",
+    "coords": [
+      8.4598564,
+      50.0180215
+    ]
+  },
+  {
+    "gesellschaft": "SE Baustahl GmbH",
+    "plz": "65795",
+    "adresse": "Schulstraße 43A",
+    "website": "https://se-baustahl.de/",
+    "coords": [
+      8.4822139,
+      50.0643917
+    ]
+  },
+  {
+    "gesellschaft": "HBS Hessische Bewehrungsstahl GmbH",
+    "plz": "65795",
+    "adresse": "Rheinstraße 31-39",
+    "website": "https://www.hessische-bewehrungsstahl.de/",
+    "coords": [
+      8.4893673,
+      50.0485447
+    ]
+  },
+  {
+    "gesellschaft": "Vitello-Betonstahl GmbH",
+    "plz": "66271",
+    "adresse": "Sonnenstraße 15",
+    "website": "https://www.vitello-betonstahl.de/",
+    "coords": [
+      7.0648334,
+      49.1320104
+    ]
+  },
+  {
+    "gesellschaft": "BOHN STEEL SOLUTIONS GMBH",
+    "plz": "66386",
+    "adresse": "Alleestraße 3",
+    "website": "http://www.brueck-stahlhandel.de/",
+    "coords": [
+      7.0492119,
+      49.3221564
+    ]
+  },
+  {
+    "gesellschaft": "Peter Ernst Baustahl",
+    "plz": "66953",
+    "adresse": "Massachusetts Avenue 26",
+    "website": "http://www.ernstbaustahl.de/",
+    "coords": [
+      7.6118594,
+      49.2231775
+    ]
+  },
+  {
+    "gesellschaft": "Eisenhandel August Bischoff",
+    "plz": "67098",
+    "adresse": "Bruchstraße 49",
+    "website": "https://www.eisen-bischoff.de/",
+    "coords": [
+      8.2061066,
+      49.47097
+    ]
+  },
+  {
+    "gesellschaft": "Rheinstahl Worms GmbH",
+    "plz": "67547",
+    "adresse": "Klosterstraße 35",
+    "website": "http://www.rheinstahl.de/",
+    "coords": [
+      8.3609595,
+      49.6227899
+    ]
+  },
+  {
+    "gesellschaft": "Eisen + Stahl Service Center GmbH Werk II",
+    "plz": "68159",
+    "adresse": "Ruhrorter Str. 60-68",
+    "website": "http://www.eisen-stahl.de/",
+    "coords": [
+      8.5127106,
+      49.4348044
+    ]
+  },
+  {
+    "gesellschaft": "Buhlmann GmbH & Co. (Mannheim)",
+    "plz": "68159",
+    "adresse": "Ruhrorter Str. 35",
+    "website": "https://buhlmann-group.com/",
+    "coords": [
+      8.5127106,
+      49.4348044
+    ]
+  },
+  {
+    "gesellschaft": "Betonstahl Lampertheim GmbH",
+    "plz": "68623",
+    "adresse": "Küblinger Weg 8",
+    "website": "http://www.rivastahl.com/de/standorte/bsl",
+    "coords": [
+      8.4298695,
+      49.6145479
+    ]
+  },
+  {
+    "gesellschaft": "Stahlcenter - VBE GmbH",
+    "plz": "69126",
+    "adresse": "Hatschekstraße 3/3",
+    "website": "http://www.vbe-hd.de/",
+    "coords": [
+      8.6755588,
+      49.3627639
+    ]
+  },
+  {
+    "gesellschaft": "Vereinigte Baustoff- und Eisen GmbH (VBE)",
+    "plz": "69126",
+    "adresse": "Haberstraße 25",
+    "website": "http://www.vbe-hd.de/",
+    "coords": [
+      8.67727,
+      49.3647535
+    ]
+  },
+  {
+    "gesellschaft": "Artur Naumann Stahl GmbH",
+    "plz": "70435",
+    "adresse": "Unterländer Str. 59",
+    "website": "http://www.naumann-stahl.de/",
+    "coords": [
+      9.1693047,
+      48.8322285
+    ]
+  },
+  {
+    "gesellschaft": "Stahlgroßhandel Schulte Süd",
+    "plz": "71083",
+    "adresse": "Horber Str. 23",
+    "website": "http://www.schulte-sued.de/",
+    "coords": [
+      8.8653309,
+      48.5936304
+    ]
+  },
+  {
+    "gesellschaft": "BLUMENSTOCK Baustahlservice GmbH",
+    "plz": "71336",
+    "adresse": "Andreas-Stihl-Straße 9",
+    "website": "http://www.blumenstock-wn.de/",
+    "coords": [
+      9.3287194,
+      48.8573088
+    ]
+  },
+  {
+    "gesellschaft": "LOTTER Walzstahl",
+    "plz": "71634",
+    "adresse": "Mörikestraße 95",
+    "website": "https://www.lotter.de/produkte/walzstahl/",
+    "coords": [
+      9.1689914,
+      48.8942741
+    ]
+  },
+  {
+    "gesellschaft": "Kummetat Stahl",
+    "plz": "71636",
+    "adresse": "Waldäcker 15",
+    "website": "http://www.kummetat.de/ksh/kontakt/kontakt.html",
+    "coords": [
+      9.1558457,
+      48.8910164
+    ]
+  },
+  {
+    "gesellschaft": "Gebr. Lotter KG",
+    "plz": "71636",
+    "adresse": "Waldäcker 15",
+    "website": "https://lotter.de/",
+    "coords": [
+      9.1558457,
+      48.8910164
+    ]
+  },
+  {
+    "gesellschaft": "Gebr. Lotter KG (Betonstahl - Schweißtechnik)",
+    "plz": "74321",
+    "adresse": "Talstraße 20",
+    "website": "http://lotter.de/",
+    "coords": [
+      9.131408,
+      48.9627602
+    ]
+  },
+  {
+    "gesellschaft": "Herzog Stahlhandel GmbH",
+    "plz": "75365",
+    "adresse": "Breslauer Str. 3",
+    "website": "http://www.herzog-stahlhandel.de/",
+    "coords": [
+      8.7588552,
+      48.7147638
+    ]
+  },
+  {
+    "gesellschaft": "Baier Stahlhandel GmbH",
+    "plz": "76189",
+    "adresse": "Nordbeckenstraße 19b",
+    "website": "https://www.baier-stahlhandel.de/",
+    "coords": [
+      8.310531,
+      49.0167862
+    ]
+  },
+  {
+    "gesellschaft": "Stahlhandel Schaller GmbH",
+    "plz": "76646",
+    "adresse": "Draisstraße 12",
+    "website": "http://stahlhandel-schaller.de/unternehmen/standort-bruchsal/",
+    "coords": [
+      8.571651,
+      49.1218592
+    ]
+  },
+  {
+    "gesellschaft": "Badische Stahlservice GmbH",
+    "plz": "77694",
+    "adresse": "Stockfeldstraße 5",
+    "website": "http://schwarzwald-eisen.de/",
+    "coords": [
+      7.7651267,
+      48.2261046
+    ]
+  },
+  {
+    "gesellschaft": "DRENICA GmbH",
+    "plz": "80687",
+    "adresse": "Schäufeleinstraße 1",
+    "website": "http://www.drenica-gmbh.de/",
+    "coords": [
+      11.5179437,
+      48.1399965
+    ]
+  },
+  {
+    "gesellschaft": "Batzer Stahl- und Metallhandels GmbH",
+    "plz": "82152",
+    "adresse": "Seeholzenstraße 1",
+    "website": "http://www.batzerstahl.de/",
+    "coords": [
+      11.4479388,
+      48.1232645
+    ]
+  },
+  {
+    "gesellschaft": "SRS-Stahl GmbH",
+    "plz": "82166",
+    "adresse": "Alois-Senefelder-Allee 1",
+    "website": "http://www.srs-stahl.de/",
+    "coords": [
+      10.8882834,
+      48.3821112
+    ]
+  },
+  {
+    "gesellschaft": "Eisenhandel Gilching GmbH",
+    "plz": "82205",
+    "adresse": "Weßlinger Str. 32",
+    "website": "http://www.eisenhandel-gilching.de/",
+    "coords": [
+      11.2829872,
+      48.1127681
+    ]
+  },
+  {
+    "gesellschaft": "MANN Stahl",
+    "plz": "84030",
+    "adresse": "Am Industriegleis 20",
+    "website": "https://gerhard-mann.de/stahl/",
+    "coords": [
+      12.1566925,
+      48.5644414
+    ]
+  },
+  {
+    "gesellschaft": "Inn-Stahl GmbH",
+    "plz": "84453",
+    "adresse": "Adolf-Kolping-Straße 45",
+    "website": "http://www.noe-gruppe.de/inn-stahl/",
+    "coords": [
+      12.5175823,
+      48.2514352
+    ]
+  },
+  {
+    "gesellschaft": "Alt-Neuöttinger Bewehrungszentrum GmbH",
+    "plz": "84503",
+    "adresse": "Am Hergraben 23",
+    "website": "https://anbs.de/",
+    "coords": [
+      12.6785039,
+      48.2370476
+    ]
+  },
+  {
+    "gesellschaft": "Donau-Eisen Handel GmbH",
+    "plz": "85053",
+    "adresse": "Dieselstraße 6",
+    "website": "http://www.donaueisen.de/",
+    "coords": [
+      11.5037737,
+      48.7862073
+    ]
+  },
+  {
+    "gesellschaft": "Aubinger Stahl- und Metallhandel GmbH",
+    "plz": "85221",
+    "adresse": "Gewerbering 8",
+    "website": "http://www.aubinger.de/",
+    "coords": [
+      11.4200183,
+      48.3839335
+    ]
+  },
+  {
+    "gesellschaft": "Heinrich Schaub Stahlhandel GmbH",
+    "plz": "85221",
+    "adresse": "Rudolf-Diesel-Straße 11",
+    "website": "http://www.schaub-stahl.de/",
+    "coords": [
+      11.4761854,
+      48.2637521
+    ]
+  },
+  {
+    "gesellschaft": "BAVARIA Stahlhandel GmbH",
+    "plz": "85232",
+    "adresse": "Maffeistraße 10",
+    "website": "http://www.bavaria-stahlhandel.de/",
+    "coords": [
+      11.2970406,
+      47.947393
+    ]
+  },
+  {
+    "gesellschaft": "Eisen Schobesberger KG",
+    "plz": "85452",
+    "adresse": "Moosham West 2",
+    "website": "https://www.eisen-schobesberger.de/",
+    "coords": [
+      13.2124178,
+      48.5466097
+    ]
+  },
+  {
+    "gesellschaft": "Noe+Noe GmbH",
+    "plz": "85716",
+    "adresse": "Lilienthalstraße 5",
+    "website": "https://www.noe-gruppe.de/",
+    "coords": [
+      11.5535833,
+      48.247177
+    ]
+  },
+  {
+    "gesellschaft": "Ruhl GmbH & Co. KG",
+    "plz": "85716",
+    "adresse": "Kreuzstraße 31",
+    "website": "https://www.ruhlgroup.com/de/kontakt1.html",
+    "coords": [
+      11.5858259,
+      48.2571459
+    ]
+  },
+  {
+    "gesellschaft": "Taubmann & Co. Stahlhandel",
+    "plz": "85737",
+    "adresse": "Am Lenzenfleck 25",
+    "website": "https://www.stahlbaron.de/",
+    "coords": [
+      11.6838362,
+      48.2383305
+    ]
+  },
+  {
+    "gesellschaft": "Dehner Stahl- & Metallhandel",
+    "plz": "86165",
+    "adresse": "Derchinger Str. 110",
+    "website": "https://dehnerstahlhandel.de/kontakt.html",
+    "coords": [
+      10.9295048,
+      48.3872632
+    ]
+  },
+  {
+    "gesellschaft": "KBS Kissinger Betonstahlbiegerei",
+    "plz": "86438",
+    "adresse": "Münchner Str. 18/Geb. C2",
+    "website": "http://www.noe-gruppe.de/",
+    "coords": [
+      10.9895522,
+      48.3064736
+    ]
+  },
+  {
+    "gesellschaft": "Stahl Schulz GmbH",
+    "plz": "86508",
+    "adresse": "Dieselstraße 6",
+    "website": "http://www.stahl-schulz.de/",
+    "coords": [
+      10.8821872,
+      48.3854592
+    ]
+  },
+  {
+    "gesellschaft": "EHG Stahl.Metall Aichach GmbH",
+    "plz": "86551",
+    "adresse": "Joseph-von-Fraunhofer-Straße 6",
+    "website": "https://new.ehg-stahl.com/de",
+    "coords": [
+      11.0901049,
+      48.4019598
+    ]
+  },
+  {
+    "gesellschaft": "Eisen-Fischer GmbH",
+    "plz": "86720",
+    "adresse": "Hofer Str. 3",
+    "website": "https://www.eisenfischer.de/",
+    "coords": [
+      10.5054223,
+      48.858649
+    ]
+  },
+  {
+    "gesellschaft": "Norbert John Stahlhandel GmbH",
+    "plz": "90453",
+    "adresse": "Max-Reger-Straße 121A",
+    "website": "http://john-stahlhandel.de/",
+    "coords": [
+      11.2108889,
+      49.4757113
+    ]
+  },
+  {
+    "gesellschaft": "Friedrich Dorner GmbH",
+    "plz": "91161",
+    "adresse": "Nürnberger Str. 20",
+    "website": "https://www.dorner-gmbh.de/stahllager",
+    "coords": [
+      11.2153798,
+      49.0904115
+    ]
+  },
+  {
+    "gesellschaft": "MSB Marktbergeler Stahl- und Bauelemente GmbH",
+    "plz": "91613",
+    "adresse": "Burgbernheimer Str. 18",
+    "website": "https://www.msb-gmbh.info/",
+    "coords": [
+      10.2404831,
+      49.5386663
+    ]
+  },
+  {
+    "gesellschaft": "Ost-West-Stahlservice (Velburg)",
+    "plz": "92355",
+    "adresse": "Deusmauerer Str. 29",
+    "website": "https://www.ost-west-stahlservice.de/",
+    "coords": [
+      11.6291436,
+      49.2395603
+    ]
+  },
+  {
+    "gesellschaft": "Stahl- u. BauelementegroßHdl.",
+    "plz": "92431",
+    "adresse": "Gewerbepark 6",
+    "website": "http://www.rossmann-kg.de/",
+    "coords": [
+      11.924388,
+      49.2752476
+    ]
+  },
+  {
+    "gesellschaft": "Die Baustahlfertiger GmbH",
+    "plz": "92670",
+    "adresse": "Am Gewerbepark 3",
+    "website": "https://www.baustahlfertiger.de/",
+    "coords": [
+      12.1898684,
+      49.8053795
+    ]
+  },
+  {
+    "gesellschaft": "Regensburger Eisenhandel GmbH",
+    "plz": "93055",
+    "adresse": "Glasfaserstraße 14",
+    "website": "http://regensburger-eisen-handel.de/",
+    "coords": [
+      12.14711,
+      49.0084888
+    ]
+  },
+  {
+    "gesellschaft": "Ost West Stahlhandel GmbH",
+    "plz": "93077",
+    "adresse": "Regensburger Str. 41A",
+    "website": "http://www.ost-west-stahlhandel.de/",
+    "coords": [
+      12.1910001,
+      49.0037775
+    ]
+  },
+  {
+    "gesellschaft": "Ost West Stahlhandel GmbH",
+    "plz": "93077",
+    "adresse": "Laubbergweg 1A",
+    "website": "http://www.ost-west-stahlhandel.de/",
+    "coords": [
+      12.1892629,
+      48.9957425
+    ]
+  },
+  {
+    "gesellschaft": "BT BewehrungsTechnik",
+    "plz": "93333",
+    "adresse": "Zeiletwiesen 2",
+    "website": "http://www.bewehrungstechnik.de/",
+    "coords": [
+      11.7611175,
+      48.7915479
+    ]
+  },
+  {
+    "gesellschaft": "Ludwig Schierer GmbH",
+    "plz": "93413",
+    "adresse": "Adolph-Kolping-Straße 2",
+    "website": "http://www.schierer.de/",
+    "coords": [
+      12.8249652,
+      49.3044081
+    ]
+  },
+  {
+    "gesellschaft": "Schwarz",
+    "plz": "96132",
+    "adresse": "Sudetenstraße 21",
+    "website": "https://www.schwarz-bewehrungstechnik.de/",
+    "coords": [
+      10.6162756,
+      49.7630622
+    ]
+  },
+  {
+    "gesellschaft": "Co-Baustahl GmbH & Co. KG",
+    "plz": "96269",
+    "adresse": "Bahnweg 8",
+    "website": "http://www.co-baustahl.de/",
+    "coords": [
+      11.1524272,
+      50.3705502
+    ]
+  },
+  {
+    "gesellschaft": "Michael Eff Stahl- und Baudienstleistungen",
+    "plz": "98587",
+    "adresse": "Stiller Berg 30",
+    "website": "https://stahl-eff.de/",
+    "coords": [
+      10.5544007,
+      50.6872895
+    ]
+  },
+  {
+    "gesellschaft": "TMS Thüringer Metall- u. Stahlservice GmbH",
+    "plz": "99091",
+    "adresse": "Am Rasenrain 2",
+    "website": "http://www.tms-stahlservice.de/",
+    "coords": [
+      11.0385233,
+      51.0055121
+    ]
+  },
+  {
+    "gesellschaft": "Heitmann Stahlhandel GmbH & Co. KG",
+    "plz": "99091",
+    "adresse": "Camburger Str. 1",
+    "website": "https://www.heitmann-stahl.de/de/unternehmen/erfurt/",
+    "coords": [
+      11.0036486,
+      51.0177226
+    ]
+  },
+  {
+    "gesellschaft": "MH Baustahl Thüringen",
+    "plz": "99310",
+    "adresse": "Karl-Marien-Straße 18",
+    "website": "http://mhbaustahl-thueringen.de/",
+    "coords": [
+      10.9456607,
+      50.836297
+    ]
+  }
+]

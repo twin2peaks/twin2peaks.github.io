@@ -1,0 +1,1 @@
+import{M as a}from"./8nSM80wL.js";a();
