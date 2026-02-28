@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="32" height="32" viewBox="0 0 32 32" displayInline="True">
+<defs>
+</defs>
+<path d="M6,26 L22,18 L22,6 L6,14 Z" stroke="#8B6508" stroke-width="1.4" fill="none" stroke-linejoin="round" />
+<path d="M22,18 L26,20 L26,8 L22,6" stroke="#8B6508" stroke-width="1.4" fill="none" stroke-linejoin="round" />
+<path d="M6,14 L10,16" stroke="#8B6508" stroke-width="1.4" />
+<path d="M10,16 L26,8" stroke="#8B6508" stroke-width="1.4" />
+<ellipse cx="14" cy="18" rx="2.5" ry="1.5" rotation="-25" stroke="#8B6508" stroke-width="0.8" fill="none" />
+<path d="M14,12 Q14,8 16,8 Q18,8 18,10" stroke="#8B6508" stroke-width="1.4" fill="none" />
+</svg>

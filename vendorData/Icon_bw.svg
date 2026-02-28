@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="32" height="32" viewBox="0 0 32 32" displayInline="True">
+<defs>
+</defs>
+<path d="M4,20 L20,4" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M8,24 L24,8" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M12,28 L28,12" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M4,12 L6.5,14.5" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M9.5,17.5 L10.5,18.5" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M13.5,21.5 L14.5,22.5" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M17.5,25.5 L20,28" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M8,8 L10.5,10.5" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M13.5,13.5 L14.5,14.5" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M17.5,17.5 L18.5,18.5" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M21.5,21.5 L24,24" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M12,4 L14.5,6.5" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M17.5,9.5 L18.5,10.5" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M21.5,13.5 L22.5,14.5" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+<path d="M25.5,17.5 L28,20" stroke="#801317" stroke-width="1.8" stroke-linecap="round" />
+</svg>
