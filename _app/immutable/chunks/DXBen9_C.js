@@ -1,1 +1,0 @@
-const r="https://elastotool-pdf-server-126717118048.europe-west3.run.app",e="http://localhost:8000";let t=null;async function o(){try{if((await fetch(`${e}/docs`,{method:"HEAD",signal:AbortSignal.timeout(1e3)})).ok)return e}catch{}return r}async function s(){return t||(t=await o(),t)}export{s as g};
