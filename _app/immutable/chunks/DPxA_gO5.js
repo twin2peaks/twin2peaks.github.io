@@ -1,0 +1,1 @@
+import{o as r,N as c,h as i,E as s,i as h,x as p,q as d}from"./rdat2yet.js";function u(o,t,f){r&&c();var n=o,a,e;i(()=>{a!==(a=t())&&(e&&(p(e),e=null),a&&(e=h(()=>f(n,a))))},s),r&&(n=d)}export{u as c};
